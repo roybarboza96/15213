@@ -1,0 +1,6160 @@
+
+This is the set index: 23
+S 6822ec,1 miss
+
+This is the set index: 24
+L 682300,8 miss
+
+This is the set index: 23
+L 6822e4,4 hit
+
+This is the set index: 23
+L 6822e0,4 hit
+
+This is the set index: 23
+L 6022e0,4 miss eviction
+
+This is the set index: 23
+S 6422e0,4 miss eviction
+
+This is the set index: 23
+L 6022e4,4 miss eviction
+
+This is the set index: 27
+S 642360,4 miss
+
+This is the set index: 23
+L 6022e8,4 hit
+
+This is the set index: 31
+S 6423e0,4 miss
+
+This is the set index: 23
+L 6022ec,4 hit
+
+This is the set index: 3
+S 642460,4 miss
+
+This is the set index: 23
+L 6022f0,4 hit
+
+This is the set index: 7
+S 6424e0,4 miss
+
+This is the set index: 23
+L 6022f4,4 hit
+
+This is the set index: 11
+S 642560,4 miss
+
+This is the set index: 23
+L 6022f8,4 hit
+
+This is the set index: 15
+S 6425e0,4 miss
+
+This is the set index: 23
+L 6022fc,4 hit
+
+This is the set index: 19
+S 642660,4 miss
+
+This is the set index: 27
+L 602360,4 miss eviction
+
+This is the set index: 23
+S 6422e4,4 miss eviction
+
+This is the set index: 27
+L 602364,4 hit
+
+This is the set index: 27
+S 642364,4 miss eviction
+
+This is the set index: 27
+L 602368,4 miss eviction
+
+This is the set index: 31
+S 6423e4,4 hit
+
+This is the set index: 27
+L 60236c,4 hit
+
+This is the set index: 3
+S 642464,4 hit
+
+This is the set index: 27
+L 602370,4 hit
+
+This is the set index: 7
+S 6424e4,4 hit
+
+This is the set index: 27
+L 602374,4 hit
+
+This is the set index: 11
+S 642564,4 hit
+
+This is the set index: 27
+L 602378,4 hit
+
+This is the set index: 15
+S 6425e4,4 hit
+
+This is the set index: 27
+L 60237c,4 hit
+
+This is the set index: 19
+S 642664,4 hit
+
+This is the set index: 31
+L 6023e0,4 miss eviction
+
+This is the set index: 23
+S 6422e8,4 hit
+
+This is the set index: 31
+L 6023e4,4 hit
+
+This is the set index: 27
+S 642368,4 miss eviction
+
+This is the set index: 31
+L 6023e8,4 hit
+
+This is the set index: 31
+S 6423e8,4 miss eviction
+
+This is the set index: 31
+L 6023ec,4 miss eviction
+
+This is the set index: 3
+S 642468,4 hit
+
+This is the set index: 31
+L 6023f0,4 hit
+
+This is the set index: 7
+S 6424e8,4 hit
+
+This is the set index: 31
+L 6023f4,4 hit
+
+This is the set index: 11
+S 642568,4 hit
+
+This is the set index: 31
+L 6023f8,4 hit
+
+This is the set index: 15
+S 6425e8,4 hit
+
+This is the set index: 31
+L 6023fc,4 hit
+
+This is the set index: 19
+S 642668,4 hit
+
+This is the set index: 3
+L 602460,4 miss eviction
+
+This is the set index: 23
+S 6422ec,4 hit
+
+This is the set index: 3
+L 602464,4 hit
+
+This is the set index: 27
+S 64236c,4 hit
+
+This is the set index: 3
+L 602468,4 hit
+
+This is the set index: 31
+S 6423ec,4 miss eviction
+
+This is the set index: 3
+L 60246c,4 hit
+
+This is the set index: 3
+S 64246c,4 miss eviction
+
+This is the set index: 3
+L 602470,4 miss eviction
+
+This is the set index: 7
+S 6424ec,4 hit
+
+This is the set index: 3
+L 602474,4 hit
+
+This is the set index: 11
+S 64256c,4 hit
+
+This is the set index: 3
+L 602478,4 hit
+
+This is the set index: 15
+S 6425ec,4 hit
+
+This is the set index: 3
+L 60247c,4 hit
+
+This is the set index: 19
+S 64266c,4 hit
+
+This is the set index: 7
+L 6024e0,4 miss eviction
+
+This is the set index: 23
+S 6422f0,4 hit
+
+This is the set index: 7
+L 6024e4,4 hit
+
+This is the set index: 27
+S 642370,4 hit
+
+This is the set index: 7
+L 6024e8,4 hit
+
+This is the set index: 31
+S 6423f0,4 hit
+
+This is the set index: 7
+L 6024ec,4 hit
+
+This is the set index: 3
+S 642470,4 miss eviction
+
+This is the set index: 7
+L 6024f0,4 hit
+
+This is the set index: 7
+S 6424f0,4 miss eviction
+
+This is the set index: 7
+L 6024f4,4 miss eviction
+
+This is the set index: 11
+S 642570,4 hit
+
+This is the set index: 7
+L 6024f8,4 hit
+
+This is the set index: 15
+S 6425f0,4 hit
+
+This is the set index: 7
+L 6024fc,4 hit
+
+This is the set index: 19
+S 642670,4 hit
+
+This is the set index: 11
+L 602560,4 miss eviction
+
+This is the set index: 23
+S 6422f4,4 hit
+
+This is the set index: 11
+L 602564,4 hit
+
+This is the set index: 27
+S 642374,4 hit
+
+This is the set index: 11
+L 602568,4 hit
+
+This is the set index: 31
+S 6423f4,4 hit
+
+This is the set index: 11
+L 60256c,4 hit
+
+This is the set index: 3
+S 642474,4 hit
+
+This is the set index: 11
+L 602570,4 hit
+
+This is the set index: 7
+S 6424f4,4 miss eviction
+
+This is the set index: 11
+L 602574,4 hit
+
+This is the set index: 11
+S 642574,4 miss eviction
+
+This is the set index: 11
+L 602578,4 miss eviction
+
+This is the set index: 15
+S 6425f4,4 hit
+
+This is the set index: 11
+L 60257c,4 hit
+
+This is the set index: 19
+S 642674,4 hit
+
+This is the set index: 15
+L 6025e0,4 miss eviction
+
+This is the set index: 23
+S 6422f8,4 hit
+
+This is the set index: 15
+L 6025e4,4 hit
+
+This is the set index: 27
+S 642378,4 hit
+
+This is the set index: 15
+L 6025e8,4 hit
+
+This is the set index: 31
+S 6423f8,4 hit
+
+This is the set index: 15
+L 6025ec,4 hit
+
+This is the set index: 3
+S 642478,4 hit
+
+This is the set index: 15
+L 6025f0,4 hit
+
+This is the set index: 7
+S 6424f8,4 hit
+
+This is the set index: 15
+L 6025f4,4 hit
+
+This is the set index: 11
+S 642578,4 miss eviction
+
+This is the set index: 15
+L 6025f8,4 hit
+
+This is the set index: 15
+S 6425f8,4 miss eviction
+
+This is the set index: 15
+L 6025fc,4 miss eviction
+
+This is the set index: 19
+S 642678,4 hit
+
+This is the set index: 19
+L 602660,4 miss eviction
+
+This is the set index: 23
+S 6422fc,4 hit
+
+This is the set index: 19
+L 602664,4 hit
+
+This is the set index: 27
+S 64237c,4 hit
+
+This is the set index: 19
+L 602668,4 hit
+
+This is the set index: 31
+S 6423fc,4 hit
+
+This is the set index: 19
+L 60266c,4 hit
+
+This is the set index: 3
+S 64247c,4 hit
+
+This is the set index: 19
+L 602670,4 hit
+
+This is the set index: 7
+S 6424fc,4 hit
+
+This is the set index: 19
+L 602674,4 hit
+
+This is the set index: 11
+S 64257c,4 hit
+
+This is the set index: 19
+L 602678,4 hit
+
+This is the set index: 15
+S 6425fc,4 miss eviction
+
+This is the set index: 19
+L 60267c,4 hit
+
+This is the set index: 19
+S 64267c,4 miss eviction
+
+This is the set index: 24
+L 602300,4 miss eviction
+
+This is the set index: 23
+S 6426e0,4 miss eviction
+
+This is the set index: 24
+L 602304,4 hit
+
+This is the set index: 27
+S 642760,4 miss eviction
+
+This is the set index: 24
+L 602308,4 hit
+
+This is the set index: 31
+S 6427e0,4 miss eviction
+
+This is the set index: 24
+L 60230c,4 hit
+
+This is the set index: 3
+S 642860,4 miss eviction
+
+This is the set index: 24
+L 602310,4 hit
+
+This is the set index: 7
+S 6428e0,4 miss eviction
+
+This is the set index: 24
+L 602314,4 hit
+
+This is the set index: 11
+S 642960,4 miss eviction
+
+This is the set index: 24
+L 602318,4 hit
+
+This is the set index: 15
+S 6429e0,4 miss eviction
+
+This is the set index: 24
+L 60231c,4 hit
+
+This is the set index: 19
+S 642a60,4 miss eviction
+
+This is the set index: 28
+L 602380,4 miss
+
+This is the set index: 23
+S 6426e4,4 hit
+
+This is the set index: 28
+L 602384,4 hit
+
+This is the set index: 27
+S 642764,4 hit
+
+This is the set index: 28
+L 602388,4 hit
+
+This is the set index: 31
+S 6427e4,4 hit
+
+This is the set index: 28
+L 60238c,4 hit
+
+This is the set index: 3
+S 642864,4 hit
+
+This is the set index: 28
+L 602390,4 hit
+
+This is the set index: 7
+S 6428e4,4 hit
+
+This is the set index: 28
+L 602394,4 hit
+
+This is the set index: 11
+S 642964,4 hit
+
+This is the set index: 28
+L 602398,4 hit
+
+This is the set index: 15
+S 6429e4,4 hit
+
+This is the set index: 28
+L 60239c,4 hit
+
+This is the set index: 19
+S 642a64,4 hit
+
+This is the set index: 0
+L 602400,4 miss
+
+This is the set index: 23
+S 6426e8,4 hit
+
+This is the set index: 0
+L 602404,4 hit
+
+This is the set index: 27
+S 642768,4 hit
+
+This is the set index: 0
+L 602408,4 hit
+
+This is the set index: 31
+S 6427e8,4 hit
+
+This is the set index: 0
+L 60240c,4 hit
+
+This is the set index: 3
+S 642868,4 hit
+
+This is the set index: 0
+L 602410,4 hit
+
+This is the set index: 7
+S 6428e8,4 hit
+
+This is the set index: 0
+L 602414,4 hit
+
+This is the set index: 11
+S 642968,4 hit
+
+This is the set index: 0
+L 602418,4 hit
+
+This is the set index: 15
+S 6429e8,4 hit
+
+This is the set index: 0
+L 60241c,4 hit
+
+This is the set index: 19
+S 642a68,4 hit
+
+This is the set index: 4
+L 602480,4 miss
+
+This is the set index: 23
+S 6426ec,4 hit
+
+This is the set index: 4
+L 602484,4 hit
+
+This is the set index: 27
+S 64276c,4 hit
+
+This is the set index: 4
+L 602488,4 hit
+
+This is the set index: 31
+S 6427ec,4 hit
+
+This is the set index: 4
+L 60248c,4 hit
+
+This is the set index: 3
+S 64286c,4 hit
+
+This is the set index: 4
+L 602490,4 hit
+
+This is the set index: 7
+S 6428ec,4 hit
+
+This is the set index: 4
+L 602494,4 hit
+
+This is the set index: 11
+S 64296c,4 hit
+
+This is the set index: 4
+L 602498,4 hit
+
+This is the set index: 15
+S 6429ec,4 hit
+
+This is the set index: 4
+L 60249c,4 hit
+
+This is the set index: 19
+S 642a6c,4 hit
+
+This is the set index: 8
+L 602500,4 miss
+
+This is the set index: 23
+S 6426f0,4 hit
+
+This is the set index: 8
+L 602504,4 hit
+
+This is the set index: 27
+S 642770,4 hit
+
+This is the set index: 8
+L 602508,4 hit
+
+This is the set index: 31
+S 6427f0,4 hit
+
+This is the set index: 8
+L 60250c,4 hit
+
+This is the set index: 3
+S 642870,4 hit
+
+This is the set index: 8
+L 602510,4 hit
+
+This is the set index: 7
+S 6428f0,4 hit
+
+This is the set index: 8
+L 602514,4 hit
+
+This is the set index: 11
+S 642970,4 hit
+
+This is the set index: 8
+L 602518,4 hit
+
+This is the set index: 15
+S 6429f0,4 hit
+
+This is the set index: 8
+L 60251c,4 hit
+
+This is the set index: 19
+S 642a70,4 hit
+
+This is the set index: 12
+L 602580,4 miss
+
+This is the set index: 23
+S 6426f4,4 hit
+
+This is the set index: 12
+L 602584,4 hit
+
+This is the set index: 27
+S 642774,4 hit
+
+This is the set index: 12
+L 602588,4 hit
+
+This is the set index: 31
+S 6427f4,4 hit
+
+This is the set index: 12
+L 60258c,4 hit
+
+This is the set index: 3
+S 642874,4 hit
+
+This is the set index: 12
+L 602590,4 hit
+
+This is the set index: 7
+S 6428f4,4 hit
+
+This is the set index: 12
+L 602594,4 hit
+
+This is the set index: 11
+S 642974,4 hit
+
+This is the set index: 12
+L 602598,4 hit
+
+This is the set index: 15
+S 6429f4,4 hit
+
+This is the set index: 12
+L 60259c,4 hit
+
+This is the set index: 19
+S 642a74,4 hit
+
+This is the set index: 16
+L 602600,4 miss
+
+This is the set index: 23
+S 6426f8,4 hit
+
+This is the set index: 16
+L 602604,4 hit
+
+This is the set index: 27
+S 642778,4 hit
+
+This is the set index: 16
+L 602608,4 hit
+
+This is the set index: 31
+S 6427f8,4 hit
+
+This is the set index: 16
+L 60260c,4 hit
+
+This is the set index: 3
+S 642878,4 hit
+
+This is the set index: 16
+L 602610,4 hit
+
+This is the set index: 7
+S 6428f8,4 hit
+
+This is the set index: 16
+L 602614,4 hit
+
+This is the set index: 11
+S 642978,4 hit
+
+This is the set index: 16
+L 602618,4 hit
+
+This is the set index: 15
+S 6429f8,4 hit
+
+This is the set index: 16
+L 60261c,4 hit
+
+This is the set index: 19
+S 642a78,4 hit
+
+This is the set index: 20
+L 602680,4 miss
+
+This is the set index: 23
+S 6426fc,4 hit
+
+This is the set index: 20
+L 602684,4 hit
+
+This is the set index: 27
+S 64277c,4 hit
+
+This is the set index: 20
+L 602688,4 hit
+
+This is the set index: 31
+S 6427fc,4 hit
+
+This is the set index: 20
+L 60268c,4 hit
+
+This is the set index: 3
+S 64287c,4 hit
+
+This is the set index: 20
+L 602690,4 hit
+
+This is the set index: 7
+S 6428fc,4 hit
+
+This is the set index: 20
+L 602694,4 hit
+
+This is the set index: 11
+S 64297c,4 hit
+
+This is the set index: 20
+L 602698,4 hit
+
+This is the set index: 15
+S 6429fc,4 hit
+
+This is the set index: 20
+L 60269c,4 hit
+
+This is the set index: 19
+S 642a7c,4 hit
+
+This is the set index: 25
+L 602320,4 miss
+
+This is the set index: 23
+S 642ae0,4 miss eviction
+
+This is the set index: 25
+L 602324,4 hit
+
+This is the set index: 27
+S 642b60,4 miss eviction
+
+This is the set index: 25
+L 602328,4 hit
+
+This is the set index: 31
+S 642be0,4 miss eviction
+
+This is the set index: 25
+L 60232c,4 hit
+
+This is the set index: 3
+S 642c60,4 miss eviction
+
+This is the set index: 25
+L 602330,4 hit
+
+This is the set index: 7
+S 642ce0,4 miss eviction
+
+This is the set index: 25
+L 602334,4 hit
+
+This is the set index: 11
+S 642d60,4 miss eviction
+
+This is the set index: 25
+L 602338,4 hit
+
+This is the set index: 15
+S 642de0,4 miss eviction
+
+This is the set index: 25
+L 60233c,4 hit
+
+This is the set index: 19
+S 642e60,4 miss eviction
+
+This is the set index: 29
+L 6023a0,4 miss
+
+This is the set index: 23
+S 642ae4,4 hit
+
+This is the set index: 29
+L 6023a4,4 hit
+
+This is the set index: 27
+S 642b64,4 hit
+
+This is the set index: 29
+L 6023a8,4 hit
+
+This is the set index: 31
+S 642be4,4 hit
+
+This is the set index: 29
+L 6023ac,4 hit
+
+This is the set index: 3
+S 642c64,4 hit
+
+This is the set index: 29
+L 6023b0,4 hit
+
+This is the set index: 7
+S 642ce4,4 hit
+
+This is the set index: 29
+L 6023b4,4 hit
+
+This is the set index: 11
+S 642d64,4 hit
+
+This is the set index: 29
+L 6023b8,4 hit
+
+This is the set index: 15
+S 642de4,4 hit
+
+This is the set index: 29
+L 6023bc,4 hit
+
+This is the set index: 19
+S 642e64,4 hit
+
+This is the set index: 1
+L 602420,4 miss
+
+This is the set index: 23
+S 642ae8,4 hit
+
+This is the set index: 1
+L 602424,4 hit
+
+This is the set index: 27
+S 642b68,4 hit
+
+This is the set index: 1
+L 602428,4 hit
+
+This is the set index: 31
+S 642be8,4 hit
+
+This is the set index: 1
+L 60242c,4 hit
+
+This is the set index: 3
+S 642c68,4 hit
+
+This is the set index: 1
+L 602430,4 hit
+
+This is the set index: 7
+S 642ce8,4 hit
+
+This is the set index: 1
+L 602434,4 hit
+
+This is the set index: 11
+S 642d68,4 hit
+
+This is the set index: 1
+L 602438,4 hit
+
+This is the set index: 15
+S 642de8,4 hit
+
+This is the set index: 1
+L 60243c,4 hit
+
+This is the set index: 19
+S 642e68,4 hit
+
+This is the set index: 5
+L 6024a0,4 miss
+
+This is the set index: 23
+S 642aec,4 hit
+
+This is the set index: 5
+L 6024a4,4 hit
+
+This is the set index: 27
+S 642b6c,4 hit
+
+This is the set index: 5
+L 6024a8,4 hit
+
+This is the set index: 31
+S 642bec,4 hit
+
+This is the set index: 5
+L 6024ac,4 hit
+
+This is the set index: 3
+S 642c6c,4 hit
+
+This is the set index: 5
+L 6024b0,4 hit
+
+This is the set index: 7
+S 642cec,4 hit
+
+This is the set index: 5
+L 6024b4,4 hit
+
+This is the set index: 11
+S 642d6c,4 hit
+
+This is the set index: 5
+L 6024b8,4 hit
+
+This is the set index: 15
+S 642dec,4 hit
+
+This is the set index: 5
+L 6024bc,4 hit
+
+This is the set index: 19
+S 642e6c,4 hit
+
+This is the set index: 9
+L 602520,4 miss
+
+This is the set index: 23
+S 642af0,4 hit
+
+This is the set index: 9
+L 602524,4 hit
+
+This is the set index: 27
+S 642b70,4 hit
+
+This is the set index: 9
+L 602528,4 hit
+
+This is the set index: 31
+S 642bf0,4 hit
+
+This is the set index: 9
+L 60252c,4 hit
+
+This is the set index: 3
+S 642c70,4 hit
+
+This is the set index: 9
+L 602530,4 hit
+
+This is the set index: 7
+S 642cf0,4 hit
+
+This is the set index: 9
+L 602534,4 hit
+
+This is the set index: 11
+S 642d70,4 hit
+
+This is the set index: 9
+L 602538,4 hit
+
+This is the set index: 15
+S 642df0,4 hit
+
+This is the set index: 9
+L 60253c,4 hit
+
+This is the set index: 19
+S 642e70,4 hit
+
+This is the set index: 13
+L 6025a0,4 miss
+
+This is the set index: 23
+S 642af4,4 hit
+
+This is the set index: 13
+L 6025a4,4 hit
+
+This is the set index: 27
+S 642b74,4 hit
+
+This is the set index: 13
+L 6025a8,4 hit
+
+This is the set index: 31
+S 642bf4,4 hit
+
+This is the set index: 13
+L 6025ac,4 hit
+
+This is the set index: 3
+S 642c74,4 hit
+
+This is the set index: 13
+L 6025b0,4 hit
+
+This is the set index: 7
+S 642cf4,4 hit
+
+This is the set index: 13
+L 6025b4,4 hit
+
+This is the set index: 11
+S 642d74,4 hit
+
+This is the set index: 13
+L 6025b8,4 hit
+
+This is the set index: 15
+S 642df4,4 hit
+
+This is the set index: 13
+L 6025bc,4 hit
+
+This is the set index: 19
+S 642e74,4 hit
+
+This is the set index: 17
+L 602620,4 miss
+
+This is the set index: 23
+S 642af8,4 hit
+
+This is the set index: 17
+L 602624,4 hit
+
+This is the set index: 27
+S 642b78,4 hit
+
+This is the set index: 17
+L 602628,4 hit
+
+This is the set index: 31
+S 642bf8,4 hit
+
+This is the set index: 17
+L 60262c,4 hit
+
+This is the set index: 3
+S 642c78,4 hit
+
+This is the set index: 17
+L 602630,4 hit
+
+This is the set index: 7
+S 642cf8,4 hit
+
+This is the set index: 17
+L 602634,4 hit
+
+This is the set index: 11
+S 642d78,4 hit
+
+This is the set index: 17
+L 602638,4 hit
+
+This is the set index: 15
+S 642df8,4 hit
+
+This is the set index: 17
+L 60263c,4 hit
+
+This is the set index: 19
+S 642e78,4 hit
+
+This is the set index: 21
+L 6026a0,4 miss
+
+This is the set index: 23
+S 642afc,4 hit
+
+This is the set index: 21
+L 6026a4,4 hit
+
+This is the set index: 27
+S 642b7c,4 hit
+
+This is the set index: 21
+L 6026a8,4 hit
+
+This is the set index: 31
+S 642bfc,4 hit
+
+This is the set index: 21
+L 6026ac,4 hit
+
+This is the set index: 3
+S 642c7c,4 hit
+
+This is the set index: 21
+L 6026b0,4 hit
+
+This is the set index: 7
+S 642cfc,4 hit
+
+This is the set index: 21
+L 6026b4,4 hit
+
+This is the set index: 11
+S 642d7c,4 hit
+
+This is the set index: 21
+L 6026b8,4 hit
+
+This is the set index: 15
+S 642dfc,4 hit
+
+This is the set index: 21
+L 6026bc,4 hit
+
+This is the set index: 19
+S 642e7c,4 hit
+
+This is the set index: 26
+L 602340,4 miss
+
+This is the set index: 23
+S 642ee0,4 miss eviction
+
+This is the set index: 26
+L 602344,4 hit
+
+This is the set index: 27
+S 642f60,4 miss eviction
+
+This is the set index: 26
+L 602348,4 hit
+
+This is the set index: 31
+S 642fe0,4 miss eviction
+
+This is the set index: 26
+L 60234c,4 hit
+
+This is the set index: 3
+S 643060,4 miss eviction
+
+This is the set index: 26
+L 602350,4 hit
+
+This is the set index: 7
+S 6430e0,4 miss eviction
+
+This is the set index: 26
+L 602354,4 hit
+
+This is the set index: 11
+S 643160,4 miss eviction
+
+This is the set index: 26
+L 602358,4 hit
+
+This is the set index: 15
+S 6431e0,4 miss eviction
+
+This is the set index: 26
+L 60235c,4 hit
+
+This is the set index: 19
+S 643260,4 miss eviction
+
+This is the set index: 30
+L 6023c0,4 miss
+
+This is the set index: 23
+S 642ee4,4 hit
+
+This is the set index: 30
+L 6023c4,4 hit
+
+This is the set index: 27
+S 642f64,4 hit
+
+This is the set index: 30
+L 6023c8,4 hit
+
+This is the set index: 31
+S 642fe4,4 hit
+
+This is the set index: 30
+L 6023cc,4 hit
+
+This is the set index: 3
+S 643064,4 hit
+
+This is the set index: 30
+L 6023d0,4 hit
+
+This is the set index: 7
+S 6430e4,4 hit
+
+This is the set index: 30
+L 6023d4,4 hit
+
+This is the set index: 11
+S 643164,4 hit
+
+This is the set index: 30
+L 6023d8,4 hit
+
+This is the set index: 15
+S 6431e4,4 hit
+
+This is the set index: 30
+L 6023dc,4 hit
+
+This is the set index: 19
+S 643264,4 hit
+
+This is the set index: 2
+L 602440,4 miss
+
+This is the set index: 23
+S 642ee8,4 hit
+
+This is the set index: 2
+L 602444,4 hit
+
+This is the set index: 27
+S 642f68,4 hit
+
+This is the set index: 2
+L 602448,4 hit
+
+This is the set index: 31
+S 642fe8,4 hit
+
+This is the set index: 2
+L 60244c,4 hit
+
+This is the set index: 3
+S 643068,4 hit
+
+This is the set index: 2
+L 602450,4 hit
+
+This is the set index: 7
+S 6430e8,4 hit
+
+This is the set index: 2
+L 602454,4 hit
+
+This is the set index: 11
+S 643168,4 hit
+
+This is the set index: 2
+L 602458,4 hit
+
+This is the set index: 15
+S 6431e8,4 hit
+
+This is the set index: 2
+L 60245c,4 hit
+
+This is the set index: 19
+S 643268,4 hit
+
+This is the set index: 6
+L 6024c0,4 miss
+
+This is the set index: 23
+S 642eec,4 hit
+
+This is the set index: 6
+L 6024c4,4 hit
+
+This is the set index: 27
+S 642f6c,4 hit
+
+This is the set index: 6
+L 6024c8,4 hit
+
+This is the set index: 31
+S 642fec,4 hit
+
+This is the set index: 6
+L 6024cc,4 hit
+
+This is the set index: 3
+S 64306c,4 hit
+
+This is the set index: 6
+L 6024d0,4 hit
+
+This is the set index: 7
+S 6430ec,4 hit
+
+This is the set index: 6
+L 6024d4,4 hit
+
+This is the set index: 11
+S 64316c,4 hit
+
+This is the set index: 6
+L 6024d8,4 hit
+
+This is the set index: 15
+S 6431ec,4 hit
+
+This is the set index: 6
+L 6024dc,4 hit
+
+This is the set index: 19
+S 64326c,4 hit
+
+This is the set index: 10
+L 602540,4 miss
+
+This is the set index: 23
+S 642ef0,4 hit
+
+This is the set index: 10
+L 602544,4 hit
+
+This is the set index: 27
+S 642f70,4 hit
+
+This is the set index: 10
+L 602548,4 hit
+
+This is the set index: 31
+S 642ff0,4 hit
+
+This is the set index: 10
+L 60254c,4 hit
+
+This is the set index: 3
+S 643070,4 hit
+
+This is the set index: 10
+L 602550,4 hit
+
+This is the set index: 7
+S 6430f0,4 hit
+
+This is the set index: 10
+L 602554,4 hit
+
+This is the set index: 11
+S 643170,4 hit
+
+This is the set index: 10
+L 602558,4 hit
+
+This is the set index: 15
+S 6431f0,4 hit
+
+This is the set index: 10
+L 60255c,4 hit
+
+This is the set index: 19
+S 643270,4 hit
+
+This is the set index: 14
+L 6025c0,4 miss
+
+This is the set index: 23
+S 642ef4,4 hit
+
+This is the set index: 14
+L 6025c4,4 hit
+
+This is the set index: 27
+S 642f74,4 hit
+
+This is the set index: 14
+L 6025c8,4 hit
+
+This is the set index: 31
+S 642ff4,4 hit
+
+This is the set index: 14
+L 6025cc,4 hit
+
+This is the set index: 3
+S 643074,4 hit
+
+This is the set index: 14
+L 6025d0,4 hit
+
+This is the set index: 7
+S 6430f4,4 hit
+
+This is the set index: 14
+L 6025d4,4 hit
+
+This is the set index: 11
+S 643174,4 hit
+
+This is the set index: 14
+L 6025d8,4 hit
+
+This is the set index: 15
+S 6431f4,4 hit
+
+This is the set index: 14
+L 6025dc,4 hit
+
+This is the set index: 19
+S 643274,4 hit
+
+This is the set index: 18
+L 602640,4 miss
+
+This is the set index: 23
+S 642ef8,4 hit
+
+This is the set index: 18
+L 602644,4 hit
+
+This is the set index: 27
+S 642f78,4 hit
+
+This is the set index: 18
+L 602648,4 hit
+
+This is the set index: 31
+S 642ff8,4 hit
+
+This is the set index: 18
+L 60264c,4 hit
+
+This is the set index: 3
+S 643078,4 hit
+
+This is the set index: 18
+L 602650,4 hit
+
+This is the set index: 7
+S 6430f8,4 hit
+
+This is the set index: 18
+L 602654,4 hit
+
+This is the set index: 11
+S 643178,4 hit
+
+This is the set index: 18
+L 602658,4 hit
+
+This is the set index: 15
+S 6431f8,4 hit
+
+This is the set index: 18
+L 60265c,4 hit
+
+This is the set index: 19
+S 643278,4 hit
+
+This is the set index: 22
+L 6026c0,4 miss
+
+This is the set index: 23
+S 642efc,4 hit
+
+This is the set index: 22
+L 6026c4,4 hit
+
+This is the set index: 27
+S 642f7c,4 hit
+
+This is the set index: 22
+L 6026c8,4 hit
+
+This is the set index: 31
+S 642ffc,4 hit
+
+This is the set index: 22
+L 6026cc,4 hit
+
+This is the set index: 3
+S 64307c,4 hit
+
+This is the set index: 22
+L 6026d0,4 hit
+
+This is the set index: 7
+S 6430fc,4 hit
+
+This is the set index: 22
+L 6026d4,4 hit
+
+This is the set index: 11
+S 64317c,4 hit
+
+This is the set index: 22
+L 6026d8,4 hit
+
+This is the set index: 15
+S 6431fc,4 hit
+
+This is the set index: 22
+L 6026dc,4 hit
+
+This is the set index: 19
+S 64327c,4 hit
+
+This is the set index: 23
+L 6026e0,4 miss eviction
+
+This is the set index: 24
+S 642300,4 miss eviction
+
+This is the set index: 23
+L 6026e4,4 hit
+
+This is the set index: 28
+S 642380,4 miss eviction
+
+This is the set index: 23
+L 6026e8,4 hit
+
+This is the set index: 0
+S 642400,4 miss eviction
+
+This is the set index: 23
+L 6026ec,4 hit
+
+This is the set index: 4
+S 642480,4 miss eviction
+
+This is the set index: 23
+L 6026f0,4 hit
+
+This is the set index: 8
+S 642500,4 miss eviction
+
+This is the set index: 23
+L 6026f4,4 hit
+
+This is the set index: 12
+S 642580,4 miss eviction
+
+This is the set index: 23
+L 6026f8,4 hit
+
+This is the set index: 16
+S 642600,4 miss eviction
+
+This is the set index: 23
+L 6026fc,4 hit
+
+This is the set index: 20
+S 642680,4 miss eviction
+
+This is the set index: 27
+L 602760,4 miss eviction
+
+This is the set index: 24
+S 642304,4 hit
+
+This is the set index: 27
+L 602764,4 hit
+
+This is the set index: 28
+S 642384,4 hit
+
+This is the set index: 27
+L 602768,4 hit
+
+This is the set index: 0
+S 642404,4 hit
+
+This is the set index: 27
+L 60276c,4 hit
+
+This is the set index: 4
+S 642484,4 hit
+
+This is the set index: 27
+L 602770,4 hit
+
+This is the set index: 8
+S 642504,4 hit
+
+This is the set index: 27
+L 602774,4 hit
+
+This is the set index: 12
+S 642584,4 hit
+
+This is the set index: 27
+L 602778,4 hit
+
+This is the set index: 16
+S 642604,4 hit
+
+This is the set index: 27
+L 60277c,4 hit
+
+This is the set index: 20
+S 642684,4 hit
+
+This is the set index: 31
+L 6027e0,4 miss eviction
+
+This is the set index: 24
+S 642308,4 hit
+
+This is the set index: 31
+L 6027e4,4 hit
+
+This is the set index: 28
+S 642388,4 hit
+
+This is the set index: 31
+L 6027e8,4 hit
+
+This is the set index: 0
+S 642408,4 hit
+
+This is the set index: 31
+L 6027ec,4 hit
+
+This is the set index: 4
+S 642488,4 hit
+
+This is the set index: 31
+L 6027f0,4 hit
+
+This is the set index: 8
+S 642508,4 hit
+
+This is the set index: 31
+L 6027f4,4 hit
+
+This is the set index: 12
+S 642588,4 hit
+
+This is the set index: 31
+L 6027f8,4 hit
+
+This is the set index: 16
+S 642608,4 hit
+
+This is the set index: 31
+L 6027fc,4 hit
+
+This is the set index: 20
+S 642688,4 hit
+
+This is the set index: 3
+L 602860,4 miss eviction
+
+This is the set index: 24
+S 64230c,4 hit
+
+This is the set index: 3
+L 602864,4 hit
+
+This is the set index: 28
+S 64238c,4 hit
+
+This is the set index: 3
+L 602868,4 hit
+
+This is the set index: 0
+S 64240c,4 hit
+
+This is the set index: 3
+L 60286c,4 hit
+
+This is the set index: 4
+S 64248c,4 hit
+
+This is the set index: 3
+L 602870,4 hit
+
+This is the set index: 8
+S 64250c,4 hit
+
+This is the set index: 3
+L 602874,4 hit
+
+This is the set index: 12
+S 64258c,4 hit
+
+This is the set index: 3
+L 602878,4 hit
+
+This is the set index: 16
+S 64260c,4 hit
+
+This is the set index: 3
+L 60287c,4 hit
+
+This is the set index: 20
+S 64268c,4 hit
+
+This is the set index: 7
+L 6028e0,4 miss eviction
+
+This is the set index: 24
+S 642310,4 hit
+
+This is the set index: 7
+L 6028e4,4 hit
+
+This is the set index: 28
+S 642390,4 hit
+
+This is the set index: 7
+L 6028e8,4 hit
+
+This is the set index: 0
+S 642410,4 hit
+
+This is the set index: 7
+L 6028ec,4 hit
+
+This is the set index: 4
+S 642490,4 hit
+
+This is the set index: 7
+L 6028f0,4 hit
+
+This is the set index: 8
+S 642510,4 hit
+
+This is the set index: 7
+L 6028f4,4 hit
+
+This is the set index: 12
+S 642590,4 hit
+
+This is the set index: 7
+L 6028f8,4 hit
+
+This is the set index: 16
+S 642610,4 hit
+
+This is the set index: 7
+L 6028fc,4 hit
+
+This is the set index: 20
+S 642690,4 hit
+
+This is the set index: 11
+L 602960,4 miss eviction
+
+This is the set index: 24
+S 642314,4 hit
+
+This is the set index: 11
+L 602964,4 hit
+
+This is the set index: 28
+S 642394,4 hit
+
+This is the set index: 11
+L 602968,4 hit
+
+This is the set index: 0
+S 642414,4 hit
+
+This is the set index: 11
+L 60296c,4 hit
+
+This is the set index: 4
+S 642494,4 hit
+
+This is the set index: 11
+L 602970,4 hit
+
+This is the set index: 8
+S 642514,4 hit
+
+This is the set index: 11
+L 602974,4 hit
+
+This is the set index: 12
+S 642594,4 hit
+
+This is the set index: 11
+L 602978,4 hit
+
+This is the set index: 16
+S 642614,4 hit
+
+This is the set index: 11
+L 60297c,4 hit
+
+This is the set index: 20
+S 642694,4 hit
+
+This is the set index: 15
+L 6029e0,4 miss eviction
+
+This is the set index: 24
+S 642318,4 hit
+
+This is the set index: 15
+L 6029e4,4 hit
+
+This is the set index: 28
+S 642398,4 hit
+
+This is the set index: 15
+L 6029e8,4 hit
+
+This is the set index: 0
+S 642418,4 hit
+
+This is the set index: 15
+L 6029ec,4 hit
+
+This is the set index: 4
+S 642498,4 hit
+
+This is the set index: 15
+L 6029f0,4 hit
+
+This is the set index: 8
+S 642518,4 hit
+
+This is the set index: 15
+L 6029f4,4 hit
+
+This is the set index: 12
+S 642598,4 hit
+
+This is the set index: 15
+L 6029f8,4 hit
+
+This is the set index: 16
+S 642618,4 hit
+
+This is the set index: 15
+L 6029fc,4 hit
+
+This is the set index: 20
+S 642698,4 hit
+
+This is the set index: 19
+L 602a60,4 miss eviction
+
+This is the set index: 24
+S 64231c,4 hit
+
+This is the set index: 19
+L 602a64,4 hit
+
+This is the set index: 28
+S 64239c,4 hit
+
+This is the set index: 19
+L 602a68,4 hit
+
+This is the set index: 0
+S 64241c,4 hit
+
+This is the set index: 19
+L 602a6c,4 hit
+
+This is the set index: 4
+S 64249c,4 hit
+
+This is the set index: 19
+L 602a70,4 hit
+
+This is the set index: 8
+S 64251c,4 hit
+
+This is the set index: 19
+L 602a74,4 hit
+
+This is the set index: 12
+S 64259c,4 hit
+
+This is the set index: 19
+L 602a78,4 hit
+
+This is the set index: 16
+S 64261c,4 hit
+
+This is the set index: 19
+L 602a7c,4 hit
+
+This is the set index: 20
+S 64269c,4 hit
+
+This is the set index: 24
+L 602700,4 miss eviction
+
+This is the set index: 24
+S 642700,4 miss eviction
+
+This is the set index: 24
+L 602704,4 miss eviction
+
+This is the set index: 28
+S 642780,4 miss eviction
+
+This is the set index: 24
+L 602708,4 hit
+
+This is the set index: 0
+S 642800,4 miss eviction
+
+This is the set index: 24
+L 60270c,4 hit
+
+This is the set index: 4
+S 642880,4 miss eviction
+
+This is the set index: 24
+L 602710,4 hit
+
+This is the set index: 8
+S 642900,4 miss eviction
+
+This is the set index: 24
+L 602714,4 hit
+
+This is the set index: 12
+S 642980,4 miss eviction
+
+This is the set index: 24
+L 602718,4 hit
+
+This is the set index: 16
+S 642a00,4 miss eviction
+
+This is the set index: 24
+L 60271c,4 hit
+
+This is the set index: 20
+S 642a80,4 miss eviction
+
+This is the set index: 28
+L 602780,4 miss eviction
+
+This is the set index: 24
+S 642704,4 miss eviction
+
+This is the set index: 28
+L 602784,4 hit
+
+This is the set index: 28
+S 642784,4 miss eviction
+
+This is the set index: 28
+L 602788,4 miss eviction
+
+This is the set index: 0
+S 642804,4 hit
+
+This is the set index: 28
+L 60278c,4 hit
+
+This is the set index: 4
+S 642884,4 hit
+
+This is the set index: 28
+L 602790,4 hit
+
+This is the set index: 8
+S 642904,4 hit
+
+This is the set index: 28
+L 602794,4 hit
+
+This is the set index: 12
+S 642984,4 hit
+
+This is the set index: 28
+L 602798,4 hit
+
+This is the set index: 16
+S 642a04,4 hit
+
+This is the set index: 28
+L 60279c,4 hit
+
+This is the set index: 20
+S 642a84,4 hit
+
+This is the set index: 0
+L 602800,4 miss eviction
+
+This is the set index: 24
+S 642708,4 hit
+
+This is the set index: 0
+L 602804,4 hit
+
+This is the set index: 28
+S 642788,4 miss eviction
+
+This is the set index: 0
+L 602808,4 hit
+
+This is the set index: 0
+S 642808,4 miss eviction
+
+This is the set index: 0
+L 60280c,4 miss eviction
+
+This is the set index: 4
+S 642888,4 hit
+
+This is the set index: 0
+L 602810,4 hit
+
+This is the set index: 8
+S 642908,4 hit
+
+This is the set index: 0
+L 602814,4 hit
+
+This is the set index: 12
+S 642988,4 hit
+
+This is the set index: 0
+L 602818,4 hit
+
+This is the set index: 16
+S 642a08,4 hit
+
+This is the set index: 0
+L 60281c,4 hit
+
+This is the set index: 20
+S 642a88,4 hit
+
+This is the set index: 4
+L 602880,4 miss eviction
+
+This is the set index: 24
+S 64270c,4 hit
+
+This is the set index: 4
+L 602884,4 hit
+
+This is the set index: 28
+S 64278c,4 hit
+
+This is the set index: 4
+L 602888,4 hit
+
+This is the set index: 0
+S 64280c,4 miss eviction
+
+This is the set index: 4
+L 60288c,4 hit
+
+This is the set index: 4
+S 64288c,4 miss eviction
+
+This is the set index: 4
+L 602890,4 miss eviction
+
+This is the set index: 8
+S 64290c,4 hit
+
+This is the set index: 4
+L 602894,4 hit
+
+This is the set index: 12
+S 64298c,4 hit
+
+This is the set index: 4
+L 602898,4 hit
+
+This is the set index: 16
+S 642a0c,4 hit
+
+This is the set index: 4
+L 60289c,4 hit
+
+This is the set index: 20
+S 642a8c,4 hit
+
+This is the set index: 8
+L 602900,4 miss eviction
+
+This is the set index: 24
+S 642710,4 hit
+
+This is the set index: 8
+L 602904,4 hit
+
+This is the set index: 28
+S 642790,4 hit
+
+This is the set index: 8
+L 602908,4 hit
+
+This is the set index: 0
+S 642810,4 hit
+
+This is the set index: 8
+L 60290c,4 hit
+
+This is the set index: 4
+S 642890,4 miss eviction
+
+This is the set index: 8
+L 602910,4 hit
+
+This is the set index: 8
+S 642910,4 miss eviction
+
+This is the set index: 8
+L 602914,4 miss eviction
+
+This is the set index: 12
+S 642990,4 hit
+
+This is the set index: 8
+L 602918,4 hit
+
+This is the set index: 16
+S 642a10,4 hit
+
+This is the set index: 8
+L 60291c,4 hit
+
+This is the set index: 20
+S 642a90,4 hit
+
+This is the set index: 12
+L 602980,4 miss eviction
+
+This is the set index: 24
+S 642714,4 hit
+
+This is the set index: 12
+L 602984,4 hit
+
+This is the set index: 28
+S 642794,4 hit
+
+This is the set index: 12
+L 602988,4 hit
+
+This is the set index: 0
+S 642814,4 hit
+
+This is the set index: 12
+L 60298c,4 hit
+
+This is the set index: 4
+S 642894,4 hit
+
+This is the set index: 12
+L 602990,4 hit
+
+This is the set index: 8
+S 642914,4 miss eviction
+
+This is the set index: 12
+L 602994,4 hit
+
+This is the set index: 12
+S 642994,4 miss eviction
+
+This is the set index: 12
+L 602998,4 miss eviction
+
+This is the set index: 16
+S 642a14,4 hit
+
+This is the set index: 12
+L 60299c,4 hit
+
+This is the set index: 20
+S 642a94,4 hit
+
+This is the set index: 16
+L 602a00,4 miss eviction
+
+This is the set index: 24
+S 642718,4 hit
+
+This is the set index: 16
+L 602a04,4 hit
+
+This is the set index: 28
+S 642798,4 hit
+
+This is the set index: 16
+L 602a08,4 hit
+
+This is the set index: 0
+S 642818,4 hit
+
+This is the set index: 16
+L 602a0c,4 hit
+
+This is the set index: 4
+S 642898,4 hit
+
+This is the set index: 16
+L 602a10,4 hit
+
+This is the set index: 8
+S 642918,4 hit
+
+This is the set index: 16
+L 602a14,4 hit
+
+This is the set index: 12
+S 642998,4 miss eviction
+
+This is the set index: 16
+L 602a18,4 hit
+
+This is the set index: 16
+S 642a18,4 miss eviction
+
+This is the set index: 16
+L 602a1c,4 miss eviction
+
+This is the set index: 20
+S 642a98,4 hit
+
+This is the set index: 20
+L 602a80,4 miss eviction
+
+This is the set index: 24
+S 64271c,4 hit
+
+This is the set index: 20
+L 602a84,4 hit
+
+This is the set index: 28
+S 64279c,4 hit
+
+This is the set index: 20
+L 602a88,4 hit
+
+This is the set index: 0
+S 64281c,4 hit
+
+This is the set index: 20
+L 602a8c,4 hit
+
+This is the set index: 4
+S 64289c,4 hit
+
+This is the set index: 20
+L 602a90,4 hit
+
+This is the set index: 8
+S 64291c,4 hit
+
+This is the set index: 20
+L 602a94,4 hit
+
+This is the set index: 12
+S 64299c,4 hit
+
+This is the set index: 20
+L 602a98,4 hit
+
+This is the set index: 16
+S 642a1c,4 miss eviction
+
+This is the set index: 20
+L 602a9c,4 hit
+
+This is the set index: 20
+S 642a9c,4 miss eviction
+
+This is the set index: 25
+L 602720,4 miss eviction
+
+This is the set index: 24
+S 642b00,4 miss eviction
+
+This is the set index: 25
+L 602724,4 hit
+
+This is the set index: 28
+S 642b80,4 miss eviction
+
+This is the set index: 25
+L 602728,4 hit
+
+This is the set index: 0
+S 642c00,4 miss eviction
+
+This is the set index: 25
+L 60272c,4 hit
+
+This is the set index: 4
+S 642c80,4 miss eviction
+
+This is the set index: 25
+L 602730,4 hit
+
+This is the set index: 8
+S 642d00,4 miss eviction
+
+This is the set index: 25
+L 602734,4 hit
+
+This is the set index: 12
+S 642d80,4 miss eviction
+
+This is the set index: 25
+L 602738,4 hit
+
+This is the set index: 16
+S 642e00,4 miss eviction
+
+This is the set index: 25
+L 60273c,4 hit
+
+This is the set index: 20
+S 642e80,4 miss eviction
+
+This is the set index: 29
+L 6027a0,4 miss eviction
+
+This is the set index: 24
+S 642b04,4 hit
+
+This is the set index: 29
+L 6027a4,4 hit
+
+This is the set index: 28
+S 642b84,4 hit
+
+This is the set index: 29
+L 6027a8,4 hit
+
+This is the set index: 0
+S 642c04,4 hit
+
+This is the set index: 29
+L 6027ac,4 hit
+
+This is the set index: 4
+S 642c84,4 hit
+
+This is the set index: 29
+L 6027b0,4 hit
+
+This is the set index: 8
+S 642d04,4 hit
+
+This is the set index: 29
+L 6027b4,4 hit
+
+This is the set index: 12
+S 642d84,4 hit
+
+This is the set index: 29
+L 6027b8,4 hit
+
+This is the set index: 16
+S 642e04,4 hit
+
+This is the set index: 29
+L 6027bc,4 hit
+
+This is the set index: 20
+S 642e84,4 hit
+
+This is the set index: 1
+L 602820,4 miss eviction
+
+This is the set index: 24
+S 642b08,4 hit
+
+This is the set index: 1
+L 602824,4 hit
+
+This is the set index: 28
+S 642b88,4 hit
+
+This is the set index: 1
+L 602828,4 hit
+
+This is the set index: 0
+S 642c08,4 hit
+
+This is the set index: 1
+L 60282c,4 hit
+
+This is the set index: 4
+S 642c88,4 hit
+
+This is the set index: 1
+L 602830,4 hit
+
+This is the set index: 8
+S 642d08,4 hit
+
+This is the set index: 1
+L 602834,4 hit
+
+This is the set index: 12
+S 642d88,4 hit
+
+This is the set index: 1
+L 602838,4 hit
+
+This is the set index: 16
+S 642e08,4 hit
+
+This is the set index: 1
+L 60283c,4 hit
+
+This is the set index: 20
+S 642e88,4 hit
+
+This is the set index: 5
+L 6028a0,4 miss eviction
+
+This is the set index: 24
+S 642b0c,4 hit
+
+This is the set index: 5
+L 6028a4,4 hit
+
+This is the set index: 28
+S 642b8c,4 hit
+
+This is the set index: 5
+L 6028a8,4 hit
+
+This is the set index: 0
+S 642c0c,4 hit
+
+This is the set index: 5
+L 6028ac,4 hit
+
+This is the set index: 4
+S 642c8c,4 hit
+
+This is the set index: 5
+L 6028b0,4 hit
+
+This is the set index: 8
+S 642d0c,4 hit
+
+This is the set index: 5
+L 6028b4,4 hit
+
+This is the set index: 12
+S 642d8c,4 hit
+
+This is the set index: 5
+L 6028b8,4 hit
+
+This is the set index: 16
+S 642e0c,4 hit
+
+This is the set index: 5
+L 6028bc,4 hit
+
+This is the set index: 20
+S 642e8c,4 hit
+
+This is the set index: 9
+L 602920,4 miss eviction
+
+This is the set index: 24
+S 642b10,4 hit
+
+This is the set index: 9
+L 602924,4 hit
+
+This is the set index: 28
+S 642b90,4 hit
+
+This is the set index: 9
+L 602928,4 hit
+
+This is the set index: 0
+S 642c10,4 hit
+
+This is the set index: 9
+L 60292c,4 hit
+
+This is the set index: 4
+S 642c90,4 hit
+
+This is the set index: 9
+L 602930,4 hit
+
+This is the set index: 8
+S 642d10,4 hit
+
+This is the set index: 9
+L 602934,4 hit
+
+This is the set index: 12
+S 642d90,4 hit
+
+This is the set index: 9
+L 602938,4 hit
+
+This is the set index: 16
+S 642e10,4 hit
+
+This is the set index: 9
+L 60293c,4 hit
+
+This is the set index: 20
+S 642e90,4 hit
+
+This is the set index: 13
+L 6029a0,4 miss eviction
+
+This is the set index: 24
+S 642b14,4 hit
+
+This is the set index: 13
+L 6029a4,4 hit
+
+This is the set index: 28
+S 642b94,4 hit
+
+This is the set index: 13
+L 6029a8,4 hit
+
+This is the set index: 0
+S 642c14,4 hit
+
+This is the set index: 13
+L 6029ac,4 hit
+
+This is the set index: 4
+S 642c94,4 hit
+
+This is the set index: 13
+L 6029b0,4 hit
+
+This is the set index: 8
+S 642d14,4 hit
+
+This is the set index: 13
+L 6029b4,4 hit
+
+This is the set index: 12
+S 642d94,4 hit
+
+This is the set index: 13
+L 6029b8,4 hit
+
+This is the set index: 16
+S 642e14,4 hit
+
+This is the set index: 13
+L 6029bc,4 hit
+
+This is the set index: 20
+S 642e94,4 hit
+
+This is the set index: 17
+L 602a20,4 miss eviction
+
+This is the set index: 24
+S 642b18,4 hit
+
+This is the set index: 17
+L 602a24,4 hit
+
+This is the set index: 28
+S 642b98,4 hit
+
+This is the set index: 17
+L 602a28,4 hit
+
+This is the set index: 0
+S 642c18,4 hit
+
+This is the set index: 17
+L 602a2c,4 hit
+
+This is the set index: 4
+S 642c98,4 hit
+
+This is the set index: 17
+L 602a30,4 hit
+
+This is the set index: 8
+S 642d18,4 hit
+
+This is the set index: 17
+L 602a34,4 hit
+
+This is the set index: 12
+S 642d98,4 hit
+
+This is the set index: 17
+L 602a38,4 hit
+
+This is the set index: 16
+S 642e18,4 hit
+
+This is the set index: 17
+L 602a3c,4 hit
+
+This is the set index: 20
+S 642e98,4 hit
+
+This is the set index: 21
+L 602aa0,4 miss eviction
+
+This is the set index: 24
+S 642b1c,4 hit
+
+This is the set index: 21
+L 602aa4,4 hit
+
+This is the set index: 28
+S 642b9c,4 hit
+
+This is the set index: 21
+L 602aa8,4 hit
+
+This is the set index: 0
+S 642c1c,4 hit
+
+This is the set index: 21
+L 602aac,4 hit
+
+This is the set index: 4
+S 642c9c,4 hit
+
+This is the set index: 21
+L 602ab0,4 hit
+
+This is the set index: 8
+S 642d1c,4 hit
+
+This is the set index: 21
+L 602ab4,4 hit
+
+This is the set index: 12
+S 642d9c,4 hit
+
+This is the set index: 21
+L 602ab8,4 hit
+
+This is the set index: 16
+S 642e1c,4 hit
+
+This is the set index: 21
+L 602abc,4 hit
+
+This is the set index: 20
+S 642e9c,4 hit
+
+This is the set index: 26
+L 602740,4 miss eviction
+
+This is the set index: 24
+S 642f00,4 miss eviction
+
+This is the set index: 26
+L 602744,4 hit
+
+This is the set index: 28
+S 642f80,4 miss eviction
+
+This is the set index: 26
+L 602748,4 hit
+
+This is the set index: 0
+S 643000,4 miss eviction
+
+This is the set index: 26
+L 60274c,4 hit
+
+This is the set index: 4
+S 643080,4 miss eviction
+
+This is the set index: 26
+L 602750,4 hit
+
+This is the set index: 8
+S 643100,4 miss eviction
+
+This is the set index: 26
+L 602754,4 hit
+
+This is the set index: 12
+S 643180,4 miss eviction
+
+This is the set index: 26
+L 602758,4 hit
+
+This is the set index: 16
+S 643200,4 miss eviction
+
+This is the set index: 26
+L 60275c,4 hit
+
+This is the set index: 20
+S 643280,4 miss eviction
+
+This is the set index: 30
+L 6027c0,4 miss eviction
+
+This is the set index: 24
+S 642f04,4 hit
+
+This is the set index: 30
+L 6027c4,4 hit
+
+This is the set index: 28
+S 642f84,4 hit
+
+This is the set index: 30
+L 6027c8,4 hit
+
+This is the set index: 0
+S 643004,4 hit
+
+This is the set index: 30
+L 6027cc,4 hit
+
+This is the set index: 4
+S 643084,4 hit
+
+This is the set index: 30
+L 6027d0,4 hit
+
+This is the set index: 8
+S 643104,4 hit
+
+This is the set index: 30
+L 6027d4,4 hit
+
+This is the set index: 12
+S 643184,4 hit
+
+This is the set index: 30
+L 6027d8,4 hit
+
+This is the set index: 16
+S 643204,4 hit
+
+This is the set index: 30
+L 6027dc,4 hit
+
+This is the set index: 20
+S 643284,4 hit
+
+This is the set index: 2
+L 602840,4 miss eviction
+
+This is the set index: 24
+S 642f08,4 hit
+
+This is the set index: 2
+L 602844,4 hit
+
+This is the set index: 28
+S 642f88,4 hit
+
+This is the set index: 2
+L 602848,4 hit
+
+This is the set index: 0
+S 643008,4 hit
+
+This is the set index: 2
+L 60284c,4 hit
+
+This is the set index: 4
+S 643088,4 hit
+
+This is the set index: 2
+L 602850,4 hit
+
+This is the set index: 8
+S 643108,4 hit
+
+This is the set index: 2
+L 602854,4 hit
+
+This is the set index: 12
+S 643188,4 hit
+
+This is the set index: 2
+L 602858,4 hit
+
+This is the set index: 16
+S 643208,4 hit
+
+This is the set index: 2
+L 60285c,4 hit
+
+This is the set index: 20
+S 643288,4 hit
+
+This is the set index: 6
+L 6028c0,4 miss eviction
+
+This is the set index: 24
+S 642f0c,4 hit
+
+This is the set index: 6
+L 6028c4,4 hit
+
+This is the set index: 28
+S 642f8c,4 hit
+
+This is the set index: 6
+L 6028c8,4 hit
+
+This is the set index: 0
+S 64300c,4 hit
+
+This is the set index: 6
+L 6028cc,4 hit
+
+This is the set index: 4
+S 64308c,4 hit
+
+This is the set index: 6
+L 6028d0,4 hit
+
+This is the set index: 8
+S 64310c,4 hit
+
+This is the set index: 6
+L 6028d4,4 hit
+
+This is the set index: 12
+S 64318c,4 hit
+
+This is the set index: 6
+L 6028d8,4 hit
+
+This is the set index: 16
+S 64320c,4 hit
+
+This is the set index: 6
+L 6028dc,4 hit
+
+This is the set index: 20
+S 64328c,4 hit
+
+This is the set index: 10
+L 602940,4 miss eviction
+
+This is the set index: 24
+S 642f10,4 hit
+
+This is the set index: 10
+L 602944,4 hit
+
+This is the set index: 28
+S 642f90,4 hit
+
+This is the set index: 10
+L 602948,4 hit
+
+This is the set index: 0
+S 643010,4 hit
+
+This is the set index: 10
+L 60294c,4 hit
+
+This is the set index: 4
+S 643090,4 hit
+
+This is the set index: 10
+L 602950,4 hit
+
+This is the set index: 8
+S 643110,4 hit
+
+This is the set index: 10
+L 602954,4 hit
+
+This is the set index: 12
+S 643190,4 hit
+
+This is the set index: 10
+L 602958,4 hit
+
+This is the set index: 16
+S 643210,4 hit
+
+This is the set index: 10
+L 60295c,4 hit
+
+This is the set index: 20
+S 643290,4 hit
+
+This is the set index: 14
+L 6029c0,4 miss eviction
+
+This is the set index: 24
+S 642f14,4 hit
+
+This is the set index: 14
+L 6029c4,4 hit
+
+This is the set index: 28
+S 642f94,4 hit
+
+This is the set index: 14
+L 6029c8,4 hit
+
+This is the set index: 0
+S 643014,4 hit
+
+This is the set index: 14
+L 6029cc,4 hit
+
+This is the set index: 4
+S 643094,4 hit
+
+This is the set index: 14
+L 6029d0,4 hit
+
+This is the set index: 8
+S 643114,4 hit
+
+This is the set index: 14
+L 6029d4,4 hit
+
+This is the set index: 12
+S 643194,4 hit
+
+This is the set index: 14
+L 6029d8,4 hit
+
+This is the set index: 16
+S 643214,4 hit
+
+This is the set index: 14
+L 6029dc,4 hit
+
+This is the set index: 20
+S 643294,4 hit
+
+This is the set index: 18
+L 602a40,4 miss eviction
+
+This is the set index: 24
+S 642f18,4 hit
+
+This is the set index: 18
+L 602a44,4 hit
+
+This is the set index: 28
+S 642f98,4 hit
+
+This is the set index: 18
+L 602a48,4 hit
+
+This is the set index: 0
+S 643018,4 hit
+
+This is the set index: 18
+L 602a4c,4 hit
+
+This is the set index: 4
+S 643098,4 hit
+
+This is the set index: 18
+L 602a50,4 hit
+
+This is the set index: 8
+S 643118,4 hit
+
+This is the set index: 18
+L 602a54,4 hit
+
+This is the set index: 12
+S 643198,4 hit
+
+This is the set index: 18
+L 602a58,4 hit
+
+This is the set index: 16
+S 643218,4 hit
+
+This is the set index: 18
+L 602a5c,4 hit
+
+This is the set index: 20
+S 643298,4 hit
+
+This is the set index: 22
+L 602ac0,4 miss eviction
+
+This is the set index: 24
+S 642f1c,4 hit
+
+This is the set index: 22
+L 602ac4,4 hit
+
+This is the set index: 28
+S 642f9c,4 hit
+
+This is the set index: 22
+L 602ac8,4 hit
+
+This is the set index: 0
+S 64301c,4 hit
+
+This is the set index: 22
+L 602acc,4 hit
+
+This is the set index: 4
+S 64309c,4 hit
+
+This is the set index: 22
+L 602ad0,4 hit
+
+This is the set index: 8
+S 64311c,4 hit
+
+This is the set index: 22
+L 602ad4,4 hit
+
+This is the set index: 12
+S 64319c,4 hit
+
+This is the set index: 22
+L 602ad8,4 hit
+
+This is the set index: 16
+S 64321c,4 hit
+
+This is the set index: 22
+L 602adc,4 hit
+
+This is the set index: 20
+S 64329c,4 hit
+
+This is the set index: 23
+L 602ae0,4 miss eviction
+
+This is the set index: 25
+S 642320,4 miss eviction
+
+This is the set index: 23
+L 602ae4,4 hit
+
+This is the set index: 29
+S 6423a0,4 miss eviction
+
+This is the set index: 23
+L 602ae8,4 hit
+
+This is the set index: 1
+S 642420,4 miss eviction
+
+This is the set index: 23
+L 602aec,4 hit
+
+This is the set index: 5
+S 6424a0,4 miss eviction
+
+This is the set index: 23
+L 602af0,4 hit
+
+This is the set index: 9
+S 642520,4 miss eviction
+
+This is the set index: 23
+L 602af4,4 hit
+
+This is the set index: 13
+S 6425a0,4 miss eviction
+
+This is the set index: 23
+L 602af8,4 hit
+
+This is the set index: 17
+S 642620,4 miss eviction
+
+This is the set index: 23
+L 602afc,4 hit
+
+This is the set index: 21
+S 6426a0,4 miss eviction
+
+This is the set index: 27
+L 602b60,4 miss eviction
+
+This is the set index: 25
+S 642324,4 hit
+
+This is the set index: 27
+L 602b64,4 hit
+
+This is the set index: 29
+S 6423a4,4 hit
+
+This is the set index: 27
+L 602b68,4 hit
+
+This is the set index: 1
+S 642424,4 hit
+
+This is the set index: 27
+L 602b6c,4 hit
+
+This is the set index: 5
+S 6424a4,4 hit
+
+This is the set index: 27
+L 602b70,4 hit
+
+This is the set index: 9
+S 642524,4 hit
+
+This is the set index: 27
+L 602b74,4 hit
+
+This is the set index: 13
+S 6425a4,4 hit
+
+This is the set index: 27
+L 602b78,4 hit
+
+This is the set index: 17
+S 642624,4 hit
+
+This is the set index: 27
+L 602b7c,4 hit
+
+This is the set index: 21
+S 6426a4,4 hit
+
+This is the set index: 31
+L 602be0,4 miss eviction
+
+This is the set index: 25
+S 642328,4 hit
+
+This is the set index: 31
+L 602be4,4 hit
+
+This is the set index: 29
+S 6423a8,4 hit
+
+This is the set index: 31
+L 602be8,4 hit
+
+This is the set index: 1
+S 642428,4 hit
+
+This is the set index: 31
+L 602bec,4 hit
+
+This is the set index: 5
+S 6424a8,4 hit
+
+This is the set index: 31
+L 602bf0,4 hit
+
+This is the set index: 9
+S 642528,4 hit
+
+This is the set index: 31
+L 602bf4,4 hit
+
+This is the set index: 13
+S 6425a8,4 hit
+
+This is the set index: 31
+L 602bf8,4 hit
+
+This is the set index: 17
+S 642628,4 hit
+
+This is the set index: 31
+L 602bfc,4 hit
+
+This is the set index: 21
+S 6426a8,4 hit
+
+This is the set index: 3
+L 602c60,4 miss eviction
+
+This is the set index: 25
+S 64232c,4 hit
+
+This is the set index: 3
+L 602c64,4 hit
+
+This is the set index: 29
+S 6423ac,4 hit
+
+This is the set index: 3
+L 602c68,4 hit
+
+This is the set index: 1
+S 64242c,4 hit
+
+This is the set index: 3
+L 602c6c,4 hit
+
+This is the set index: 5
+S 6424ac,4 hit
+
+This is the set index: 3
+L 602c70,4 hit
+
+This is the set index: 9
+S 64252c,4 hit
+
+This is the set index: 3
+L 602c74,4 hit
+
+This is the set index: 13
+S 6425ac,4 hit
+
+This is the set index: 3
+L 602c78,4 hit
+
+This is the set index: 17
+S 64262c,4 hit
+
+This is the set index: 3
+L 602c7c,4 hit
+
+This is the set index: 21
+S 6426ac,4 hit
+
+This is the set index: 7
+L 602ce0,4 miss eviction
+
+This is the set index: 25
+S 642330,4 hit
+
+This is the set index: 7
+L 602ce4,4 hit
+
+This is the set index: 29
+S 6423b0,4 hit
+
+This is the set index: 7
+L 602ce8,4 hit
+
+This is the set index: 1
+S 642430,4 hit
+
+This is the set index: 7
+L 602cec,4 hit
+
+This is the set index: 5
+S 6424b0,4 hit
+
+This is the set index: 7
+L 602cf0,4 hit
+
+This is the set index: 9
+S 642530,4 hit
+
+This is the set index: 7
+L 602cf4,4 hit
+
+This is the set index: 13
+S 6425b0,4 hit
+
+This is the set index: 7
+L 602cf8,4 hit
+
+This is the set index: 17
+S 642630,4 hit
+
+This is the set index: 7
+L 602cfc,4 hit
+
+This is the set index: 21
+S 6426b0,4 hit
+
+This is the set index: 11
+L 602d60,4 miss eviction
+
+This is the set index: 25
+S 642334,4 hit
+
+This is the set index: 11
+L 602d64,4 hit
+
+This is the set index: 29
+S 6423b4,4 hit
+
+This is the set index: 11
+L 602d68,4 hit
+
+This is the set index: 1
+S 642434,4 hit
+
+This is the set index: 11
+L 602d6c,4 hit
+
+This is the set index: 5
+S 6424b4,4 hit
+
+This is the set index: 11
+L 602d70,4 hit
+
+This is the set index: 9
+S 642534,4 hit
+
+This is the set index: 11
+L 602d74,4 hit
+
+This is the set index: 13
+S 6425b4,4 hit
+
+This is the set index: 11
+L 602d78,4 hit
+
+This is the set index: 17
+S 642634,4 hit
+
+This is the set index: 11
+L 602d7c,4 hit
+
+This is the set index: 21
+S 6426b4,4 hit
+
+This is the set index: 15
+L 602de0,4 miss eviction
+
+This is the set index: 25
+S 642338,4 hit
+
+This is the set index: 15
+L 602de4,4 hit
+
+This is the set index: 29
+S 6423b8,4 hit
+
+This is the set index: 15
+L 602de8,4 hit
+
+This is the set index: 1
+S 642438,4 hit
+
+This is the set index: 15
+L 602dec,4 hit
+
+This is the set index: 5
+S 6424b8,4 hit
+
+This is the set index: 15
+L 602df0,4 hit
+
+This is the set index: 9
+S 642538,4 hit
+
+This is the set index: 15
+L 602df4,4 hit
+
+This is the set index: 13
+S 6425b8,4 hit
+
+This is the set index: 15
+L 602df8,4 hit
+
+This is the set index: 17
+S 642638,4 hit
+
+This is the set index: 15
+L 602dfc,4 hit
+
+This is the set index: 21
+S 6426b8,4 hit
+
+This is the set index: 19
+L 602e60,4 miss eviction
+
+This is the set index: 25
+S 64233c,4 hit
+
+This is the set index: 19
+L 602e64,4 hit
+
+This is the set index: 29
+S 6423bc,4 hit
+
+This is the set index: 19
+L 602e68,4 hit
+
+This is the set index: 1
+S 64243c,4 hit
+
+This is the set index: 19
+L 602e6c,4 hit
+
+This is the set index: 5
+S 6424bc,4 hit
+
+This is the set index: 19
+L 602e70,4 hit
+
+This is the set index: 9
+S 64253c,4 hit
+
+This is the set index: 19
+L 602e74,4 hit
+
+This is the set index: 13
+S 6425bc,4 hit
+
+This is the set index: 19
+L 602e78,4 hit
+
+This is the set index: 17
+S 64263c,4 hit
+
+This is the set index: 19
+L 602e7c,4 hit
+
+This is the set index: 21
+S 6426bc,4 hit
+
+This is the set index: 24
+L 602b00,4 miss eviction
+
+This is the set index: 25
+S 642720,4 miss eviction
+
+This is the set index: 24
+L 602b04,4 hit
+
+This is the set index: 29
+S 6427a0,4 miss eviction
+
+This is the set index: 24
+L 602b08,4 hit
+
+This is the set index: 1
+S 642820,4 miss eviction
+
+This is the set index: 24
+L 602b0c,4 hit
+
+This is the set index: 5
+S 6428a0,4 miss eviction
+
+This is the set index: 24
+L 602b10,4 hit
+
+This is the set index: 9
+S 642920,4 miss eviction
+
+This is the set index: 24
+L 602b14,4 hit
+
+This is the set index: 13
+S 6429a0,4 miss eviction
+
+This is the set index: 24
+L 602b18,4 hit
+
+This is the set index: 17
+S 642a20,4 miss eviction
+
+This is the set index: 24
+L 602b1c,4 hit
+
+This is the set index: 21
+S 642aa0,4 miss eviction
+
+This is the set index: 28
+L 602b80,4 miss eviction
+
+This is the set index: 25
+S 642724,4 hit
+
+This is the set index: 28
+L 602b84,4 hit
+
+This is the set index: 29
+S 6427a4,4 hit
+
+This is the set index: 28
+L 602b88,4 hit
+
+This is the set index: 1
+S 642824,4 hit
+
+This is the set index: 28
+L 602b8c,4 hit
+
+This is the set index: 5
+S 6428a4,4 hit
+
+This is the set index: 28
+L 602b90,4 hit
+
+This is the set index: 9
+S 642924,4 hit
+
+This is the set index: 28
+L 602b94,4 hit
+
+This is the set index: 13
+S 6429a4,4 hit
+
+This is the set index: 28
+L 602b98,4 hit
+
+This is the set index: 17
+S 642a24,4 hit
+
+This is the set index: 28
+L 602b9c,4 hit
+
+This is the set index: 21
+S 642aa4,4 hit
+
+This is the set index: 0
+L 602c00,4 miss eviction
+
+This is the set index: 25
+S 642728,4 hit
+
+This is the set index: 0
+L 602c04,4 hit
+
+This is the set index: 29
+S 6427a8,4 hit
+
+This is the set index: 0
+L 602c08,4 hit
+
+This is the set index: 1
+S 642828,4 hit
+
+This is the set index: 0
+L 602c0c,4 hit
+
+This is the set index: 5
+S 6428a8,4 hit
+
+This is the set index: 0
+L 602c10,4 hit
+
+This is the set index: 9
+S 642928,4 hit
+
+This is the set index: 0
+L 602c14,4 hit
+
+This is the set index: 13
+S 6429a8,4 hit
+
+This is the set index: 0
+L 602c18,4 hit
+
+This is the set index: 17
+S 642a28,4 hit
+
+This is the set index: 0
+L 602c1c,4 hit
+
+This is the set index: 21
+S 642aa8,4 hit
+
+This is the set index: 4
+L 602c80,4 miss eviction
+
+This is the set index: 25
+S 64272c,4 hit
+
+This is the set index: 4
+L 602c84,4 hit
+
+This is the set index: 29
+S 6427ac,4 hit
+
+This is the set index: 4
+L 602c88,4 hit
+
+This is the set index: 1
+S 64282c,4 hit
+
+This is the set index: 4
+L 602c8c,4 hit
+
+This is the set index: 5
+S 6428ac,4 hit
+
+This is the set index: 4
+L 602c90,4 hit
+
+This is the set index: 9
+S 64292c,4 hit
+
+This is the set index: 4
+L 602c94,4 hit
+
+This is the set index: 13
+S 6429ac,4 hit
+
+This is the set index: 4
+L 602c98,4 hit
+
+This is the set index: 17
+S 642a2c,4 hit
+
+This is the set index: 4
+L 602c9c,4 hit
+
+This is the set index: 21
+S 642aac,4 hit
+
+This is the set index: 8
+L 602d00,4 miss eviction
+
+This is the set index: 25
+S 642730,4 hit
+
+This is the set index: 8
+L 602d04,4 hit
+
+This is the set index: 29
+S 6427b0,4 hit
+
+This is the set index: 8
+L 602d08,4 hit
+
+This is the set index: 1
+S 642830,4 hit
+
+This is the set index: 8
+L 602d0c,4 hit
+
+This is the set index: 5
+S 6428b0,4 hit
+
+This is the set index: 8
+L 602d10,4 hit
+
+This is the set index: 9
+S 642930,4 hit
+
+This is the set index: 8
+L 602d14,4 hit
+
+This is the set index: 13
+S 6429b0,4 hit
+
+This is the set index: 8
+L 602d18,4 hit
+
+This is the set index: 17
+S 642a30,4 hit
+
+This is the set index: 8
+L 602d1c,4 hit
+
+This is the set index: 21
+S 642ab0,4 hit
+
+This is the set index: 12
+L 602d80,4 miss eviction
+
+This is the set index: 25
+S 642734,4 hit
+
+This is the set index: 12
+L 602d84,4 hit
+
+This is the set index: 29
+S 6427b4,4 hit
+
+This is the set index: 12
+L 602d88,4 hit
+
+This is the set index: 1
+S 642834,4 hit
+
+This is the set index: 12
+L 602d8c,4 hit
+
+This is the set index: 5
+S 6428b4,4 hit
+
+This is the set index: 12
+L 602d90,4 hit
+
+This is the set index: 9
+S 642934,4 hit
+
+This is the set index: 12
+L 602d94,4 hit
+
+This is the set index: 13
+S 6429b4,4 hit
+
+This is the set index: 12
+L 602d98,4 hit
+
+This is the set index: 17
+S 642a34,4 hit
+
+This is the set index: 12
+L 602d9c,4 hit
+
+This is the set index: 21
+S 642ab4,4 hit
+
+This is the set index: 16
+L 602e00,4 miss eviction
+
+This is the set index: 25
+S 642738,4 hit
+
+This is the set index: 16
+L 602e04,4 hit
+
+This is the set index: 29
+S 6427b8,4 hit
+
+This is the set index: 16
+L 602e08,4 hit
+
+This is the set index: 1
+S 642838,4 hit
+
+This is the set index: 16
+L 602e0c,4 hit
+
+This is the set index: 5
+S 6428b8,4 hit
+
+This is the set index: 16
+L 602e10,4 hit
+
+This is the set index: 9
+S 642938,4 hit
+
+This is the set index: 16
+L 602e14,4 hit
+
+This is the set index: 13
+S 6429b8,4 hit
+
+This is the set index: 16
+L 602e18,4 hit
+
+This is the set index: 17
+S 642a38,4 hit
+
+This is the set index: 16
+L 602e1c,4 hit
+
+This is the set index: 21
+S 642ab8,4 hit
+
+This is the set index: 20
+L 602e80,4 miss eviction
+
+This is the set index: 25
+S 64273c,4 hit
+
+This is the set index: 20
+L 602e84,4 hit
+
+This is the set index: 29
+S 6427bc,4 hit
+
+This is the set index: 20
+L 602e88,4 hit
+
+This is the set index: 1
+S 64283c,4 hit
+
+This is the set index: 20
+L 602e8c,4 hit
+
+This is the set index: 5
+S 6428bc,4 hit
+
+This is the set index: 20
+L 602e90,4 hit
+
+This is the set index: 9
+S 64293c,4 hit
+
+This is the set index: 20
+L 602e94,4 hit
+
+This is the set index: 13
+S 6429bc,4 hit
+
+This is the set index: 20
+L 602e98,4 hit
+
+This is the set index: 17
+S 642a3c,4 hit
+
+This is the set index: 20
+L 602e9c,4 hit
+
+This is the set index: 21
+S 642abc,4 hit
+
+This is the set index: 25
+L 602b20,4 miss eviction
+
+This is the set index: 25
+S 642b20,4 miss eviction
+
+This is the set index: 25
+L 602b24,4 miss eviction
+
+This is the set index: 29
+S 642ba0,4 miss eviction
+
+This is the set index: 25
+L 602b28,4 hit
+
+This is the set index: 1
+S 642c20,4 miss eviction
+
+This is the set index: 25
+L 602b2c,4 hit
+
+This is the set index: 5
+S 642ca0,4 miss eviction
+
+This is the set index: 25
+L 602b30,4 hit
+
+This is the set index: 9
+S 642d20,4 miss eviction
+
+This is the set index: 25
+L 602b34,4 hit
+
+This is the set index: 13
+S 642da0,4 miss eviction
+
+This is the set index: 25
+L 602b38,4 hit
+
+This is the set index: 17
+S 642e20,4 miss eviction
+
+This is the set index: 25
+L 602b3c,4 hit
+
+This is the set index: 21
+S 642ea0,4 miss eviction
+
+This is the set index: 29
+L 602ba0,4 miss eviction
+
+This is the set index: 25
+S 642b24,4 miss eviction
+
+This is the set index: 29
+L 602ba4,4 hit
+
+This is the set index: 29
+S 642ba4,4 miss eviction
+
+This is the set index: 29
+L 602ba8,4 miss eviction
+
+This is the set index: 1
+S 642c24,4 hit
+
+This is the set index: 29
+L 602bac,4 hit
+
+This is the set index: 5
+S 642ca4,4 hit
+
+This is the set index: 29
+L 602bb0,4 hit
+
+This is the set index: 9
+S 642d24,4 hit
+
+This is the set index: 29
+L 602bb4,4 hit
+
+This is the set index: 13
+S 642da4,4 hit
+
+This is the set index: 29
+L 602bb8,4 hit
+
+This is the set index: 17
+S 642e24,4 hit
+
+This is the set index: 29
+L 602bbc,4 hit
+
+This is the set index: 21
+S 642ea4,4 hit
+
+This is the set index: 1
+L 602c20,4 miss eviction
+
+This is the set index: 25
+S 642b28,4 hit
+
+This is the set index: 1
+L 602c24,4 hit
+
+This is the set index: 29
+S 642ba8,4 miss eviction
+
+This is the set index: 1
+L 602c28,4 hit
+
+This is the set index: 1
+S 642c28,4 miss eviction
+
+This is the set index: 1
+L 602c2c,4 miss eviction
+
+This is the set index: 5
+S 642ca8,4 hit
+
+This is the set index: 1
+L 602c30,4 hit
+
+This is the set index: 9
+S 642d28,4 hit
+
+This is the set index: 1
+L 602c34,4 hit
+
+This is the set index: 13
+S 642da8,4 hit
+
+This is the set index: 1
+L 602c38,4 hit
+
+This is the set index: 17
+S 642e28,4 hit
+
+This is the set index: 1
+L 602c3c,4 hit
+
+This is the set index: 21
+S 642ea8,4 hit
+
+This is the set index: 5
+L 602ca0,4 miss eviction
+
+This is the set index: 25
+S 642b2c,4 hit
+
+This is the set index: 5
+L 602ca4,4 hit
+
+This is the set index: 29
+S 642bac,4 hit
+
+This is the set index: 5
+L 602ca8,4 hit
+
+This is the set index: 1
+S 642c2c,4 miss eviction
+
+This is the set index: 5
+L 602cac,4 hit
+
+This is the set index: 5
+S 642cac,4 miss eviction
+
+This is the set index: 5
+L 602cb0,4 miss eviction
+
+This is the set index: 9
+S 642d2c,4 hit
+
+This is the set index: 5
+L 602cb4,4 hit
+
+This is the set index: 13
+S 642dac,4 hit
+
+This is the set index: 5
+L 602cb8,4 hit
+
+This is the set index: 17
+S 642e2c,4 hit
+
+This is the set index: 5
+L 602cbc,4 hit
+
+This is the set index: 21
+S 642eac,4 hit
+
+This is the set index: 9
+L 602d20,4 miss eviction
+
+This is the set index: 25
+S 642b30,4 hit
+
+This is the set index: 9
+L 602d24,4 hit
+
+This is the set index: 29
+S 642bb0,4 hit
+
+This is the set index: 9
+L 602d28,4 hit
+
+This is the set index: 1
+S 642c30,4 hit
+
+This is the set index: 9
+L 602d2c,4 hit
+
+This is the set index: 5
+S 642cb0,4 miss eviction
+
+This is the set index: 9
+L 602d30,4 hit
+
+This is the set index: 9
+S 642d30,4 miss eviction
+
+This is the set index: 9
+L 602d34,4 miss eviction
+
+This is the set index: 13
+S 642db0,4 hit
+
+This is the set index: 9
+L 602d38,4 hit
+
+This is the set index: 17
+S 642e30,4 hit
+
+This is the set index: 9
+L 602d3c,4 hit
+
+This is the set index: 21
+S 642eb0,4 hit
+
+This is the set index: 13
+L 602da0,4 miss eviction
+
+This is the set index: 25
+S 642b34,4 hit
+
+This is the set index: 13
+L 602da4,4 hit
+
+This is the set index: 29
+S 642bb4,4 hit
+
+This is the set index: 13
+L 602da8,4 hit
+
+This is the set index: 1
+S 642c34,4 hit
+
+This is the set index: 13
+L 602dac,4 hit
+
+This is the set index: 5
+S 642cb4,4 hit
+
+This is the set index: 13
+L 602db0,4 hit
+
+This is the set index: 9
+S 642d34,4 miss eviction
+
+This is the set index: 13
+L 602db4,4 hit
+
+This is the set index: 13
+S 642db4,4 miss eviction
+
+This is the set index: 13
+L 602db8,4 miss eviction
+
+This is the set index: 17
+S 642e34,4 hit
+
+This is the set index: 13
+L 602dbc,4 hit
+
+This is the set index: 21
+S 642eb4,4 hit
+
+This is the set index: 17
+L 602e20,4 miss eviction
+
+This is the set index: 25
+S 642b38,4 hit
+
+This is the set index: 17
+L 602e24,4 hit
+
+This is the set index: 29
+S 642bb8,4 hit
+
+This is the set index: 17
+L 602e28,4 hit
+
+This is the set index: 1
+S 642c38,4 hit
+
+This is the set index: 17
+L 602e2c,4 hit
+
+This is the set index: 5
+S 642cb8,4 hit
+
+This is the set index: 17
+L 602e30,4 hit
+
+This is the set index: 9
+S 642d38,4 hit
+
+This is the set index: 17
+L 602e34,4 hit
+
+This is the set index: 13
+S 642db8,4 miss eviction
+
+This is the set index: 17
+L 602e38,4 hit
+
+This is the set index: 17
+S 642e38,4 miss eviction
+
+This is the set index: 17
+L 602e3c,4 miss eviction
+
+This is the set index: 21
+S 642eb8,4 hit
+
+This is the set index: 21
+L 602ea0,4 miss eviction
+
+This is the set index: 25
+S 642b3c,4 hit
+
+This is the set index: 21
+L 602ea4,4 hit
+
+This is the set index: 29
+S 642bbc,4 hit
+
+This is the set index: 21
+L 602ea8,4 hit
+
+This is the set index: 1
+S 642c3c,4 hit
+
+This is the set index: 21
+L 602eac,4 hit
+
+This is the set index: 5
+S 642cbc,4 hit
+
+This is the set index: 21
+L 602eb0,4 hit
+
+This is the set index: 9
+S 642d3c,4 hit
+
+This is the set index: 21
+L 602eb4,4 hit
+
+This is the set index: 13
+S 642dbc,4 hit
+
+This is the set index: 21
+L 602eb8,4 hit
+
+This is the set index: 17
+S 642e3c,4 miss eviction
+
+This is the set index: 21
+L 602ebc,4 hit
+
+This is the set index: 21
+S 642ebc,4 miss eviction
+
+This is the set index: 26
+L 602b40,4 miss eviction
+
+This is the set index: 25
+S 642f20,4 miss eviction
+
+This is the set index: 26
+L 602b44,4 hit
+
+This is the set index: 29
+S 642fa0,4 miss eviction
+
+This is the set index: 26
+L 602b48,4 hit
+
+This is the set index: 1
+S 643020,4 miss eviction
+
+This is the set index: 26
+L 602b4c,4 hit
+
+This is the set index: 5
+S 6430a0,4 miss eviction
+
+This is the set index: 26
+L 602b50,4 hit
+
+This is the set index: 9
+S 643120,4 miss eviction
+
+This is the set index: 26
+L 602b54,4 hit
+
+This is the set index: 13
+S 6431a0,4 miss eviction
+
+This is the set index: 26
+L 602b58,4 hit
+
+This is the set index: 17
+S 643220,4 miss eviction
+
+This is the set index: 26
+L 602b5c,4 hit
+
+This is the set index: 21
+S 6432a0,4 miss eviction
+
+This is the set index: 30
+L 602bc0,4 miss eviction
+
+This is the set index: 25
+S 642f24,4 hit
+
+This is the set index: 30
+L 602bc4,4 hit
+
+This is the set index: 29
+S 642fa4,4 hit
+
+This is the set index: 30
+L 602bc8,4 hit
+
+This is the set index: 1
+S 643024,4 hit
+
+This is the set index: 30
+L 602bcc,4 hit
+
+This is the set index: 5
+S 6430a4,4 hit
+
+This is the set index: 30
+L 602bd0,4 hit
+
+This is the set index: 9
+S 643124,4 hit
+
+This is the set index: 30
+L 602bd4,4 hit
+
+This is the set index: 13
+S 6431a4,4 hit
+
+This is the set index: 30
+L 602bd8,4 hit
+
+This is the set index: 17
+S 643224,4 hit
+
+This is the set index: 30
+L 602bdc,4 hit
+
+This is the set index: 21
+S 6432a4,4 hit
+
+This is the set index: 2
+L 602c40,4 miss eviction
+
+This is the set index: 25
+S 642f28,4 hit
+
+This is the set index: 2
+L 602c44,4 hit
+
+This is the set index: 29
+S 642fa8,4 hit
+
+This is the set index: 2
+L 602c48,4 hit
+
+This is the set index: 1
+S 643028,4 hit
+
+This is the set index: 2
+L 602c4c,4 hit
+
+This is the set index: 5
+S 6430a8,4 hit
+
+This is the set index: 2
+L 602c50,4 hit
+
+This is the set index: 9
+S 643128,4 hit
+
+This is the set index: 2
+L 602c54,4 hit
+
+This is the set index: 13
+S 6431a8,4 hit
+
+This is the set index: 2
+L 602c58,4 hit
+
+This is the set index: 17
+S 643228,4 hit
+
+This is the set index: 2
+L 602c5c,4 hit
+
+This is the set index: 21
+S 6432a8,4 hit
+
+This is the set index: 6
+L 602cc0,4 miss eviction
+
+This is the set index: 25
+S 642f2c,4 hit
+
+This is the set index: 6
+L 602cc4,4 hit
+
+This is the set index: 29
+S 642fac,4 hit
+
+This is the set index: 6
+L 602cc8,4 hit
+
+This is the set index: 1
+S 64302c,4 hit
+
+This is the set index: 6
+L 602ccc,4 hit
+
+This is the set index: 5
+S 6430ac,4 hit
+
+This is the set index: 6
+L 602cd0,4 hit
+
+This is the set index: 9
+S 64312c,4 hit
+
+This is the set index: 6
+L 602cd4,4 hit
+
+This is the set index: 13
+S 6431ac,4 hit
+
+This is the set index: 6
+L 602cd8,4 hit
+
+This is the set index: 17
+S 64322c,4 hit
+
+This is the set index: 6
+L 602cdc,4 hit
+
+This is the set index: 21
+S 6432ac,4 hit
+
+This is the set index: 10
+L 602d40,4 miss eviction
+
+This is the set index: 25
+S 642f30,4 hit
+
+This is the set index: 10
+L 602d44,4 hit
+
+This is the set index: 29
+S 642fb0,4 hit
+
+This is the set index: 10
+L 602d48,4 hit
+
+This is the set index: 1
+S 643030,4 hit
+
+This is the set index: 10
+L 602d4c,4 hit
+
+This is the set index: 5
+S 6430b0,4 hit
+
+This is the set index: 10
+L 602d50,4 hit
+
+This is the set index: 9
+S 643130,4 hit
+
+This is the set index: 10
+L 602d54,4 hit
+
+This is the set index: 13
+S 6431b0,4 hit
+
+This is the set index: 10
+L 602d58,4 hit
+
+This is the set index: 17
+S 643230,4 hit
+
+This is the set index: 10
+L 602d5c,4 hit
+
+This is the set index: 21
+S 6432b0,4 hit
+
+This is the set index: 14
+L 602dc0,4 miss eviction
+
+This is the set index: 25
+S 642f34,4 hit
+
+This is the set index: 14
+L 602dc4,4 hit
+
+This is the set index: 29
+S 642fb4,4 hit
+
+This is the set index: 14
+L 602dc8,4 hit
+
+This is the set index: 1
+S 643034,4 hit
+
+This is the set index: 14
+L 602dcc,4 hit
+
+This is the set index: 5
+S 6430b4,4 hit
+
+This is the set index: 14
+L 602dd0,4 hit
+
+This is the set index: 9
+S 643134,4 hit
+
+This is the set index: 14
+L 602dd4,4 hit
+
+This is the set index: 13
+S 6431b4,4 hit
+
+This is the set index: 14
+L 602dd8,4 hit
+
+This is the set index: 17
+S 643234,4 hit
+
+This is the set index: 14
+L 602ddc,4 hit
+
+This is the set index: 21
+S 6432b4,4 hit
+
+This is the set index: 18
+L 602e40,4 miss eviction
+
+This is the set index: 25
+S 642f38,4 hit
+
+This is the set index: 18
+L 602e44,4 hit
+
+This is the set index: 29
+S 642fb8,4 hit
+
+This is the set index: 18
+L 602e48,4 hit
+
+This is the set index: 1
+S 643038,4 hit
+
+This is the set index: 18
+L 602e4c,4 hit
+
+This is the set index: 5
+S 6430b8,4 hit
+
+This is the set index: 18
+L 602e50,4 hit
+
+This is the set index: 9
+S 643138,4 hit
+
+This is the set index: 18
+L 602e54,4 hit
+
+This is the set index: 13
+S 6431b8,4 hit
+
+This is the set index: 18
+L 602e58,4 hit
+
+This is the set index: 17
+S 643238,4 hit
+
+This is the set index: 18
+L 602e5c,4 hit
+
+This is the set index: 21
+S 6432b8,4 hit
+
+This is the set index: 22
+L 602ec0,4 miss eviction
+
+This is the set index: 25
+S 642f3c,4 hit
+
+This is the set index: 22
+L 602ec4,4 hit
+
+This is the set index: 29
+S 642fbc,4 hit
+
+This is the set index: 22
+L 602ec8,4 hit
+
+This is the set index: 1
+S 64303c,4 hit
+
+This is the set index: 22
+L 602ecc,4 hit
+
+This is the set index: 5
+S 6430bc,4 hit
+
+This is the set index: 22
+L 602ed0,4 hit
+
+This is the set index: 9
+S 64313c,4 hit
+
+This is the set index: 22
+L 602ed4,4 hit
+
+This is the set index: 13
+S 6431bc,4 hit
+
+This is the set index: 22
+L 602ed8,4 hit
+
+This is the set index: 17
+S 64323c,4 hit
+
+This is the set index: 22
+L 602edc,4 hit
+
+This is the set index: 21
+S 6432bc,4 hit
+
+This is the set index: 23
+L 602ee0,4 miss eviction
+
+This is the set index: 26
+S 642340,4 miss eviction
+
+This is the set index: 23
+L 602ee4,4 hit
+
+This is the set index: 30
+S 6423c0,4 miss eviction
+
+This is the set index: 23
+L 602ee8,4 hit
+
+This is the set index: 2
+S 642440,4 miss eviction
+
+This is the set index: 23
+L 602eec,4 hit
+
+This is the set index: 6
+S 6424c0,4 miss eviction
+
+This is the set index: 23
+L 602ef0,4 hit
+
+This is the set index: 10
+S 642540,4 miss eviction
+
+This is the set index: 23
+L 602ef4,4 hit
+
+This is the set index: 14
+S 6425c0,4 miss eviction
+
+This is the set index: 23
+L 602ef8,4 hit
+
+This is the set index: 18
+S 642640,4 miss eviction
+
+This is the set index: 23
+L 602efc,4 hit
+
+This is the set index: 22
+S 6426c0,4 miss eviction
+
+This is the set index: 27
+L 602f60,4 miss eviction
+
+This is the set index: 26
+S 642344,4 hit
+
+This is the set index: 27
+L 602f64,4 hit
+
+This is the set index: 30
+S 6423c4,4 hit
+
+This is the set index: 27
+L 602f68,4 hit
+
+This is the set index: 2
+S 642444,4 hit
+
+This is the set index: 27
+L 602f6c,4 hit
+
+This is the set index: 6
+S 6424c4,4 hit
+
+This is the set index: 27
+L 602f70,4 hit
+
+This is the set index: 10
+S 642544,4 hit
+
+This is the set index: 27
+L 602f74,4 hit
+
+This is the set index: 14
+S 6425c4,4 hit
+
+This is the set index: 27
+L 602f78,4 hit
+
+This is the set index: 18
+S 642644,4 hit
+
+This is the set index: 27
+L 602f7c,4 hit
+
+This is the set index: 22
+S 6426c4,4 hit
+
+This is the set index: 31
+L 602fe0,4 miss eviction
+
+This is the set index: 26
+S 642348,4 hit
+
+This is the set index: 31
+L 602fe4,4 hit
+
+This is the set index: 30
+S 6423c8,4 hit
+
+This is the set index: 31
+L 602fe8,4 hit
+
+This is the set index: 2
+S 642448,4 hit
+
+This is the set index: 31
+L 602fec,4 hit
+
+This is the set index: 6
+S 6424c8,4 hit
+
+This is the set index: 31
+L 602ff0,4 hit
+
+This is the set index: 10
+S 642548,4 hit
+
+This is the set index: 31
+L 602ff4,4 hit
+
+This is the set index: 14
+S 6425c8,4 hit
+
+This is the set index: 31
+L 602ff8,4 hit
+
+This is the set index: 18
+S 642648,4 hit
+
+This is the set index: 31
+L 602ffc,4 hit
+
+This is the set index: 22
+S 6426c8,4 hit
+
+This is the set index: 3
+L 603060,4 miss eviction
+
+This is the set index: 26
+S 64234c,4 hit
+
+This is the set index: 3
+L 603064,4 hit
+
+This is the set index: 30
+S 6423cc,4 hit
+
+This is the set index: 3
+L 603068,4 hit
+
+This is the set index: 2
+S 64244c,4 hit
+
+This is the set index: 3
+L 60306c,4 hit
+
+This is the set index: 6
+S 6424cc,4 hit
+
+This is the set index: 3
+L 603070,4 hit
+
+This is the set index: 10
+S 64254c,4 hit
+
+This is the set index: 3
+L 603074,4 hit
+
+This is the set index: 14
+S 6425cc,4 hit
+
+This is the set index: 3
+L 603078,4 hit
+
+This is the set index: 18
+S 64264c,4 hit
+
+This is the set index: 3
+L 60307c,4 hit
+
+This is the set index: 22
+S 6426cc,4 hit
+
+This is the set index: 7
+L 6030e0,4 miss eviction
+
+This is the set index: 26
+S 642350,4 hit
+
+This is the set index: 7
+L 6030e4,4 hit
+
+This is the set index: 30
+S 6423d0,4 hit
+
+This is the set index: 7
+L 6030e8,4 hit
+
+This is the set index: 2
+S 642450,4 hit
+
+This is the set index: 7
+L 6030ec,4 hit
+
+This is the set index: 6
+S 6424d0,4 hit
+
+This is the set index: 7
+L 6030f0,4 hit
+
+This is the set index: 10
+S 642550,4 hit
+
+This is the set index: 7
+L 6030f4,4 hit
+
+This is the set index: 14
+S 6425d0,4 hit
+
+This is the set index: 7
+L 6030f8,4 hit
+
+This is the set index: 18
+S 642650,4 hit
+
+This is the set index: 7
+L 6030fc,4 hit
+
+This is the set index: 22
+S 6426d0,4 hit
+
+This is the set index: 11
+L 603160,4 miss eviction
+
+This is the set index: 26
+S 642354,4 hit
+
+This is the set index: 11
+L 603164,4 hit
+
+This is the set index: 30
+S 6423d4,4 hit
+
+This is the set index: 11
+L 603168,4 hit
+
+This is the set index: 2
+S 642454,4 hit
+
+This is the set index: 11
+L 60316c,4 hit
+
+This is the set index: 6
+S 6424d4,4 hit
+
+This is the set index: 11
+L 603170,4 hit
+
+This is the set index: 10
+S 642554,4 hit
+
+This is the set index: 11
+L 603174,4 hit
+
+This is the set index: 14
+S 6425d4,4 hit
+
+This is the set index: 11
+L 603178,4 hit
+
+This is the set index: 18
+S 642654,4 hit
+
+This is the set index: 11
+L 60317c,4 hit
+
+This is the set index: 22
+S 6426d4,4 hit
+
+This is the set index: 15
+L 6031e0,4 miss eviction
+
+This is the set index: 26
+S 642358,4 hit
+
+This is the set index: 15
+L 6031e4,4 hit
+
+This is the set index: 30
+S 6423d8,4 hit
+
+This is the set index: 15
+L 6031e8,4 hit
+
+This is the set index: 2
+S 642458,4 hit
+
+This is the set index: 15
+L 6031ec,4 hit
+
+This is the set index: 6
+S 6424d8,4 hit
+
+This is the set index: 15
+L 6031f0,4 hit
+
+This is the set index: 10
+S 642558,4 hit
+
+This is the set index: 15
+L 6031f4,4 hit
+
+This is the set index: 14
+S 6425d8,4 hit
+
+This is the set index: 15
+L 6031f8,4 hit
+
+This is the set index: 18
+S 642658,4 hit
+
+This is the set index: 15
+L 6031fc,4 hit
+
+This is the set index: 22
+S 6426d8,4 hit
+
+This is the set index: 19
+L 603260,4 miss eviction
+
+This is the set index: 26
+S 64235c,4 hit
+
+This is the set index: 19
+L 603264,4 hit
+
+This is the set index: 30
+S 6423dc,4 hit
+
+This is the set index: 19
+L 603268,4 hit
+
+This is the set index: 2
+S 64245c,4 hit
+
+This is the set index: 19
+L 60326c,4 hit
+
+This is the set index: 6
+S 6424dc,4 hit
+
+This is the set index: 19
+L 603270,4 hit
+
+This is the set index: 10
+S 64255c,4 hit
+
+This is the set index: 19
+L 603274,4 hit
+
+This is the set index: 14
+S 6425dc,4 hit
+
+This is the set index: 19
+L 603278,4 hit
+
+This is the set index: 18
+S 64265c,4 hit
+
+This is the set index: 19
+L 60327c,4 hit
+
+This is the set index: 22
+S 6426dc,4 hit
+
+This is the set index: 24
+L 602f00,4 miss eviction
+
+This is the set index: 26
+S 642740,4 miss eviction
+
+This is the set index: 24
+L 602f04,4 hit
+
+This is the set index: 30
+S 6427c0,4 miss eviction
+
+This is the set index: 24
+L 602f08,4 hit
+
+This is the set index: 2
+S 642840,4 miss eviction
+
+This is the set index: 24
+L 602f0c,4 hit
+
+This is the set index: 6
+S 6428c0,4 miss eviction
+
+This is the set index: 24
+L 602f10,4 hit
+
+This is the set index: 10
+S 642940,4 miss eviction
+
+This is the set index: 24
+L 602f14,4 hit
+
+This is the set index: 14
+S 6429c0,4 miss eviction
+
+This is the set index: 24
+L 602f18,4 hit
+
+This is the set index: 18
+S 642a40,4 miss eviction
+
+This is the set index: 24
+L 602f1c,4 hit
+
+This is the set index: 22
+S 642ac0,4 miss eviction
+
+This is the set index: 28
+L 602f80,4 miss eviction
+
+This is the set index: 26
+S 642744,4 hit
+
+This is the set index: 28
+L 602f84,4 hit
+
+This is the set index: 30
+S 6427c4,4 hit
+
+This is the set index: 28
+L 602f88,4 hit
+
+This is the set index: 2
+S 642844,4 hit
+
+This is the set index: 28
+L 602f8c,4 hit
+
+This is the set index: 6
+S 6428c4,4 hit
+
+This is the set index: 28
+L 602f90,4 hit
+
+This is the set index: 10
+S 642944,4 hit
+
+This is the set index: 28
+L 602f94,4 hit
+
+This is the set index: 14
+S 6429c4,4 hit
+
+This is the set index: 28
+L 602f98,4 hit
+
+This is the set index: 18
+S 642a44,4 hit
+
+This is the set index: 28
+L 602f9c,4 hit
+
+This is the set index: 22
+S 642ac4,4 hit
+
+This is the set index: 0
+L 603000,4 miss eviction
+
+This is the set index: 26
+S 642748,4 hit
+
+This is the set index: 0
+L 603004,4 hit
+
+This is the set index: 30
+S 6427c8,4 hit
+
+This is the set index: 0
+L 603008,4 hit
+
+This is the set index: 2
+S 642848,4 hit
+
+This is the set index: 0
+L 60300c,4 hit
+
+This is the set index: 6
+S 6428c8,4 hit
+
+This is the set index: 0
+L 603010,4 hit
+
+This is the set index: 10
+S 642948,4 hit
+
+This is the set index: 0
+L 603014,4 hit
+
+This is the set index: 14
+S 6429c8,4 hit
+
+This is the set index: 0
+L 603018,4 hit
+
+This is the set index: 18
+S 642a48,4 hit
+
+This is the set index: 0
+L 60301c,4 hit
+
+This is the set index: 22
+S 642ac8,4 hit
+
+This is the set index: 4
+L 603080,4 miss eviction
+
+This is the set index: 26
+S 64274c,4 hit
+
+This is the set index: 4
+L 603084,4 hit
+
+This is the set index: 30
+S 6427cc,4 hit
+
+This is the set index: 4
+L 603088,4 hit
+
+This is the set index: 2
+S 64284c,4 hit
+
+This is the set index: 4
+L 60308c,4 hit
+
+This is the set index: 6
+S 6428cc,4 hit
+
+This is the set index: 4
+L 603090,4 hit
+
+This is the set index: 10
+S 64294c,4 hit
+
+This is the set index: 4
+L 603094,4 hit
+
+This is the set index: 14
+S 6429cc,4 hit
+
+This is the set index: 4
+L 603098,4 hit
+
+This is the set index: 18
+S 642a4c,4 hit
+
+This is the set index: 4
+L 60309c,4 hit
+
+This is the set index: 22
+S 642acc,4 hit
+
+This is the set index: 8
+L 603100,4 miss eviction
+
+This is the set index: 26
+S 642750,4 hit
+
+This is the set index: 8
+L 603104,4 hit
+
+This is the set index: 30
+S 6427d0,4 hit
+
+This is the set index: 8
+L 603108,4 hit
+
+This is the set index: 2
+S 642850,4 hit
+
+This is the set index: 8
+L 60310c,4 hit
+
+This is the set index: 6
+S 6428d0,4 hit
+
+This is the set index: 8
+L 603110,4 hit
+
+This is the set index: 10
+S 642950,4 hit
+
+This is the set index: 8
+L 603114,4 hit
+
+This is the set index: 14
+S 6429d0,4 hit
+
+This is the set index: 8
+L 603118,4 hit
+
+This is the set index: 18
+S 642a50,4 hit
+
+This is the set index: 8
+L 60311c,4 hit
+
+This is the set index: 22
+S 642ad0,4 hit
+
+This is the set index: 12
+L 603180,4 miss eviction
+
+This is the set index: 26
+S 642754,4 hit
+
+This is the set index: 12
+L 603184,4 hit
+
+This is the set index: 30
+S 6427d4,4 hit
+
+This is the set index: 12
+L 603188,4 hit
+
+This is the set index: 2
+S 642854,4 hit
+
+This is the set index: 12
+L 60318c,4 hit
+
+This is the set index: 6
+S 6428d4,4 hit
+
+This is the set index: 12
+L 603190,4 hit
+
+This is the set index: 10
+S 642954,4 hit
+
+This is the set index: 12
+L 603194,4 hit
+
+This is the set index: 14
+S 6429d4,4 hit
+
+This is the set index: 12
+L 603198,4 hit
+
+This is the set index: 18
+S 642a54,4 hit
+
+This is the set index: 12
+L 60319c,4 hit
+
+This is the set index: 22
+S 642ad4,4 hit
+
+This is the set index: 16
+L 603200,4 miss eviction
+
+This is the set index: 26
+S 642758,4 hit
+
+This is the set index: 16
+L 603204,4 hit
+
+This is the set index: 30
+S 6427d8,4 hit
+
+This is the set index: 16
+L 603208,4 hit
+
+This is the set index: 2
+S 642858,4 hit
+
+This is the set index: 16
+L 60320c,4 hit
+
+This is the set index: 6
+S 6428d8,4 hit
+
+This is the set index: 16
+L 603210,4 hit
+
+This is the set index: 10
+S 642958,4 hit
+
+This is the set index: 16
+L 603214,4 hit
+
+This is the set index: 14
+S 6429d8,4 hit
+
+This is the set index: 16
+L 603218,4 hit
+
+This is the set index: 18
+S 642a58,4 hit
+
+This is the set index: 16
+L 60321c,4 hit
+
+This is the set index: 22
+S 642ad8,4 hit
+
+This is the set index: 20
+L 603280,4 miss eviction
+
+This is the set index: 26
+S 64275c,4 hit
+
+This is the set index: 20
+L 603284,4 hit
+
+This is the set index: 30
+S 6427dc,4 hit
+
+This is the set index: 20
+L 603288,4 hit
+
+This is the set index: 2
+S 64285c,4 hit
+
+This is the set index: 20
+L 60328c,4 hit
+
+This is the set index: 6
+S 6428dc,4 hit
+
+This is the set index: 20
+L 603290,4 hit
+
+This is the set index: 10
+S 64295c,4 hit
+
+This is the set index: 20
+L 603294,4 hit
+
+This is the set index: 14
+S 6429dc,4 hit
+
+This is the set index: 20
+L 603298,4 hit
+
+This is the set index: 18
+S 642a5c,4 hit
+
+This is the set index: 20
+L 60329c,4 hit
+
+This is the set index: 22
+S 642adc,4 hit
+
+This is the set index: 25
+L 602f20,4 miss eviction
+
+This is the set index: 26
+S 642b40,4 miss eviction
+
+This is the set index: 25
+L 602f24,4 hit
+
+This is the set index: 30
+S 642bc0,4 miss eviction
+
+This is the set index: 25
+L 602f28,4 hit
+
+This is the set index: 2
+S 642c40,4 miss eviction
+
+This is the set index: 25
+L 602f2c,4 hit
+
+This is the set index: 6
+S 642cc0,4 miss eviction
+
+This is the set index: 25
+L 602f30,4 hit
+
+This is the set index: 10
+S 642d40,4 miss eviction
+
+This is the set index: 25
+L 602f34,4 hit
+
+This is the set index: 14
+S 642dc0,4 miss eviction
+
+This is the set index: 25
+L 602f38,4 hit
+
+This is the set index: 18
+S 642e40,4 miss eviction
+
+This is the set index: 25
+L 602f3c,4 hit
+
+This is the set index: 22
+S 642ec0,4 miss eviction
+
+This is the set index: 29
+L 602fa0,4 miss eviction
+
+This is the set index: 26
+S 642b44,4 hit
+
+This is the set index: 29
+L 602fa4,4 hit
+
+This is the set index: 30
+S 642bc4,4 hit
+
+This is the set index: 29
+L 602fa8,4 hit
+
+This is the set index: 2
+S 642c44,4 hit
+
+This is the set index: 29
+L 602fac,4 hit
+
+This is the set index: 6
+S 642cc4,4 hit
+
+This is the set index: 29
+L 602fb0,4 hit
+
+This is the set index: 10
+S 642d44,4 hit
+
+This is the set index: 29
+L 602fb4,4 hit
+
+This is the set index: 14
+S 642dc4,4 hit
+
+This is the set index: 29
+L 602fb8,4 hit
+
+This is the set index: 18
+S 642e44,4 hit
+
+This is the set index: 29
+L 602fbc,4 hit
+
+This is the set index: 22
+S 642ec4,4 hit
+
+This is the set index: 1
+L 603020,4 miss eviction
+
+This is the set index: 26
+S 642b48,4 hit
+
+This is the set index: 1
+L 603024,4 hit
+
+This is the set index: 30
+S 642bc8,4 hit
+
+This is the set index: 1
+L 603028,4 hit
+
+This is the set index: 2
+S 642c48,4 hit
+
+This is the set index: 1
+L 60302c,4 hit
+
+This is the set index: 6
+S 642cc8,4 hit
+
+This is the set index: 1
+L 603030,4 hit
+
+This is the set index: 10
+S 642d48,4 hit
+
+This is the set index: 1
+L 603034,4 hit
+
+This is the set index: 14
+S 642dc8,4 hit
+
+This is the set index: 1
+L 603038,4 hit
+
+This is the set index: 18
+S 642e48,4 hit
+
+This is the set index: 1
+L 60303c,4 hit
+
+This is the set index: 22
+S 642ec8,4 hit
+
+This is the set index: 5
+L 6030a0,4 miss eviction
+
+This is the set index: 26
+S 642b4c,4 hit
+
+This is the set index: 5
+L 6030a4,4 hit
+
+This is the set index: 30
+S 642bcc,4 hit
+
+This is the set index: 5
+L 6030a8,4 hit
+
+This is the set index: 2
+S 642c4c,4 hit
+
+This is the set index: 5
+L 6030ac,4 hit
+
+This is the set index: 6
+S 642ccc,4 hit
+
+This is the set index: 5
+L 6030b0,4 hit
+
+This is the set index: 10
+S 642d4c,4 hit
+
+This is the set index: 5
+L 6030b4,4 hit
+
+This is the set index: 14
+S 642dcc,4 hit
+
+This is the set index: 5
+L 6030b8,4 hit
+
+This is the set index: 18
+S 642e4c,4 hit
+
+This is the set index: 5
+L 6030bc,4 hit
+
+This is the set index: 22
+S 642ecc,4 hit
+
+This is the set index: 9
+L 603120,4 miss eviction
+
+This is the set index: 26
+S 642b50,4 hit
+
+This is the set index: 9
+L 603124,4 hit
+
+This is the set index: 30
+S 642bd0,4 hit
+
+This is the set index: 9
+L 603128,4 hit
+
+This is the set index: 2
+S 642c50,4 hit
+
+This is the set index: 9
+L 60312c,4 hit
+
+This is the set index: 6
+S 642cd0,4 hit
+
+This is the set index: 9
+L 603130,4 hit
+
+This is the set index: 10
+S 642d50,4 hit
+
+This is the set index: 9
+L 603134,4 hit
+
+This is the set index: 14
+S 642dd0,4 hit
+
+This is the set index: 9
+L 603138,4 hit
+
+This is the set index: 18
+S 642e50,4 hit
+
+This is the set index: 9
+L 60313c,4 hit
+
+This is the set index: 22
+S 642ed0,4 hit
+
+This is the set index: 13
+L 6031a0,4 miss eviction
+
+This is the set index: 26
+S 642b54,4 hit
+
+This is the set index: 13
+L 6031a4,4 hit
+
+This is the set index: 30
+S 642bd4,4 hit
+
+This is the set index: 13
+L 6031a8,4 hit
+
+This is the set index: 2
+S 642c54,4 hit
+
+This is the set index: 13
+L 6031ac,4 hit
+
+This is the set index: 6
+S 642cd4,4 hit
+
+This is the set index: 13
+L 6031b0,4 hit
+
+This is the set index: 10
+S 642d54,4 hit
+
+This is the set index: 13
+L 6031b4,4 hit
+
+This is the set index: 14
+S 642dd4,4 hit
+
+This is the set index: 13
+L 6031b8,4 hit
+
+This is the set index: 18
+S 642e54,4 hit
+
+This is the set index: 13
+L 6031bc,4 hit
+
+This is the set index: 22
+S 642ed4,4 hit
+
+This is the set index: 17
+L 603220,4 miss eviction
+
+This is the set index: 26
+S 642b58,4 hit
+
+This is the set index: 17
+L 603224,4 hit
+
+This is the set index: 30
+S 642bd8,4 hit
+
+This is the set index: 17
+L 603228,4 hit
+
+This is the set index: 2
+S 642c58,4 hit
+
+This is the set index: 17
+L 60322c,4 hit
+
+This is the set index: 6
+S 642cd8,4 hit
+
+This is the set index: 17
+L 603230,4 hit
+
+This is the set index: 10
+S 642d58,4 hit
+
+This is the set index: 17
+L 603234,4 hit
+
+This is the set index: 14
+S 642dd8,4 hit
+
+This is the set index: 17
+L 603238,4 hit
+
+This is the set index: 18
+S 642e58,4 hit
+
+This is the set index: 17
+L 60323c,4 hit
+
+This is the set index: 22
+S 642ed8,4 hit
+
+This is the set index: 21
+L 6032a0,4 miss eviction
+
+This is the set index: 26
+S 642b5c,4 hit
+
+This is the set index: 21
+L 6032a4,4 hit
+
+This is the set index: 30
+S 642bdc,4 hit
+
+This is the set index: 21
+L 6032a8,4 hit
+
+This is the set index: 2
+S 642c5c,4 hit
+
+This is the set index: 21
+L 6032ac,4 hit
+
+This is the set index: 6
+S 642cdc,4 hit
+
+This is the set index: 21
+L 6032b0,4 hit
+
+This is the set index: 10
+S 642d5c,4 hit
+
+This is the set index: 21
+L 6032b4,4 hit
+
+This is the set index: 14
+S 642ddc,4 hit
+
+This is the set index: 21
+L 6032b8,4 hit
+
+This is the set index: 18
+S 642e5c,4 hit
+
+This is the set index: 21
+L 6032bc,4 hit
+
+This is the set index: 22
+S 642edc,4 hit
+
+This is the set index: 26
+L 602f40,4 miss eviction
+
+This is the set index: 26
+S 642f40,4 miss eviction
+
+This is the set index: 26
+L 602f44,4 miss eviction
+
+This is the set index: 30
+S 642fc0,4 miss eviction
+
+This is the set index: 26
+L 602f48,4 hit
+
+This is the set index: 2
+S 643040,4 miss eviction
+
+This is the set index: 26
+L 602f4c,4 hit
+
+This is the set index: 6
+S 6430c0,4 miss eviction
+
+This is the set index: 26
+L 602f50,4 hit
+
+This is the set index: 10
+S 643140,4 miss eviction
+
+This is the set index: 26
+L 602f54,4 hit
+
+This is the set index: 14
+S 6431c0,4 miss eviction
+
+This is the set index: 26
+L 602f58,4 hit
+
+This is the set index: 18
+S 643240,4 miss eviction
+
+This is the set index: 26
+L 602f5c,4 hit
+
+This is the set index: 22
+S 6432c0,4 miss eviction
+
+This is the set index: 30
+L 602fc0,4 miss eviction
+
+This is the set index: 26
+S 642f44,4 miss eviction
+
+This is the set index: 30
+L 602fc4,4 hit
+
+This is the set index: 30
+S 642fc4,4 miss eviction
+
+This is the set index: 30
+L 602fc8,4 miss eviction
+
+This is the set index: 2
+S 643044,4 hit
+
+This is the set index: 30
+L 602fcc,4 hit
+
+This is the set index: 6
+S 6430c4,4 hit
+
+This is the set index: 30
+L 602fd0,4 hit
+
+This is the set index: 10
+S 643144,4 hit
+
+This is the set index: 30
+L 602fd4,4 hit
+
+This is the set index: 14
+S 6431c4,4 hit
+
+This is the set index: 30
+L 602fd8,4 hit
+
+This is the set index: 18
+S 643244,4 hit
+
+This is the set index: 30
+L 602fdc,4 hit
+
+This is the set index: 22
+S 6432c4,4 hit
+
+This is the set index: 2
+L 603040,4 miss eviction
+
+This is the set index: 26
+S 642f48,4 hit
+
+This is the set index: 2
+L 603044,4 hit
+
+This is the set index: 30
+S 642fc8,4 miss eviction
+
+This is the set index: 2
+L 603048,4 hit
+
+This is the set index: 2
+S 643048,4 miss eviction
+
+This is the set index: 2
+L 60304c,4 miss eviction
+
+This is the set index: 6
+S 6430c8,4 hit
+
+This is the set index: 2
+L 603050,4 hit
+
+This is the set index: 10
+S 643148,4 hit
+
+This is the set index: 2
+L 603054,4 hit
+
+This is the set index: 14
+S 6431c8,4 hit
+
+This is the set index: 2
+L 603058,4 hit
+
+This is the set index: 18
+S 643248,4 hit
+
+This is the set index: 2
+L 60305c,4 hit
+
+This is the set index: 22
+S 6432c8,4 hit
+
+This is the set index: 6
+L 6030c0,4 miss eviction
+
+This is the set index: 26
+S 642f4c,4 hit
+
+This is the set index: 6
+L 6030c4,4 hit
+
+This is the set index: 30
+S 642fcc,4 hit
+
+This is the set index: 6
+L 6030c8,4 hit
+
+This is the set index: 2
+S 64304c,4 miss eviction
+
+This is the set index: 6
+L 6030cc,4 hit
+
+This is the set index: 6
+S 6430cc,4 miss eviction
+
+This is the set index: 6
+L 6030d0,4 miss eviction
+
+This is the set index: 10
+S 64314c,4 hit
+
+This is the set index: 6
+L 6030d4,4 hit
+
+This is the set index: 14
+S 6431cc,4 hit
+
+This is the set index: 6
+L 6030d8,4 hit
+
+This is the set index: 18
+S 64324c,4 hit
+
+This is the set index: 6
+L 6030dc,4 hit
+
+This is the set index: 22
+S 6432cc,4 hit
+
+This is the set index: 10
+L 603140,4 miss eviction
+
+This is the set index: 26
+S 642f50,4 hit
+
+This is the set index: 10
+L 603144,4 hit
+
+This is the set index: 30
+S 642fd0,4 hit
+
+This is the set index: 10
+L 603148,4 hit
+
+This is the set index: 2
+S 643050,4 hit
+
+This is the set index: 10
+L 60314c,4 hit
+
+This is the set index: 6
+S 6430d0,4 miss eviction
+
+This is the set index: 10
+L 603150,4 hit
+
+This is the set index: 10
+S 643150,4 miss eviction
+
+This is the set index: 10
+L 603154,4 miss eviction
+
+This is the set index: 14
+S 6431d0,4 hit
+
+This is the set index: 10
+L 603158,4 hit
+
+This is the set index: 18
+S 643250,4 hit
+
+This is the set index: 10
+L 60315c,4 hit
+
+This is the set index: 22
+S 6432d0,4 hit
+
+This is the set index: 14
+L 6031c0,4 miss eviction
+
+This is the set index: 26
+S 642f54,4 hit
+
+This is the set index: 14
+L 6031c4,4 hit
+
+This is the set index: 30
+S 642fd4,4 hit
+
+This is the set index: 14
+L 6031c8,4 hit
+
+This is the set index: 2
+S 643054,4 hit
+
+This is the set index: 14
+L 6031cc,4 hit
+
+This is the set index: 6
+S 6430d4,4 hit
+
+This is the set index: 14
+L 6031d0,4 hit
+
+This is the set index: 10
+S 643154,4 miss eviction
+
+This is the set index: 14
+L 6031d4,4 hit
+
+This is the set index: 14
+S 6431d4,4 miss eviction
+
+This is the set index: 14
+L 6031d8,4 miss eviction
+
+This is the set index: 18
+S 643254,4 hit
+
+This is the set index: 14
+L 6031dc,4 hit
+
+This is the set index: 22
+S 6432d4,4 hit
+
+This is the set index: 18
+L 603240,4 miss eviction
+
+This is the set index: 26
+S 642f58,4 hit
+
+This is the set index: 18
+L 603244,4 hit
+
+This is the set index: 30
+S 642fd8,4 hit
+
+This is the set index: 18
+L 603248,4 hit
+
+This is the set index: 2
+S 643058,4 hit
+
+This is the set index: 18
+L 60324c,4 hit
+
+This is the set index: 6
+S 6430d8,4 hit
+
+This is the set index: 18
+L 603250,4 hit
+
+This is the set index: 10
+S 643158,4 hit
+
+This is the set index: 18
+L 603254,4 hit
+
+This is the set index: 14
+S 6431d8,4 miss eviction
+
+This is the set index: 18
+L 603258,4 hit
+
+This is the set index: 18
+S 643258,4 miss eviction
+
+This is the set index: 18
+L 60325c,4 miss eviction
+
+This is the set index: 22
+S 6432d8,4 hit
+
+This is the set index: 22
+L 6032c0,4 miss eviction
+
+This is the set index: 26
+S 642f5c,4 hit
+
+This is the set index: 22
+L 6032c4,4 hit
+
+This is the set index: 30
+S 642fdc,4 hit
+
+This is the set index: 22
+L 6032c8,4 hit
+
+This is the set index: 2
+S 64305c,4 hit
+
+This is the set index: 22
+L 6032cc,4 hit
+
+This is the set index: 6
+S 6430dc,4 hit
+
+This is the set index: 22
+L 6032d0,4 hit
+
+This is the set index: 10
+S 64315c,4 hit
+
+This is the set index: 22
+L 6032d4,4 hit
+
+This is the set index: 14
+S 6431dc,4 hit
+
+This is the set index: 22
+L 6032d8,4 hit
+
+This is the set index: 18
+S 64325c,4 miss eviction
+
+This is the set index: 22
+L 6032dc,4 hit
+
+This is the set index: 22
+S 6432dc,4 miss eviction
+
+This is the set index: 23
+S 6822ed,1 miss eviction
+hits:1710 misses:343 evictions:311

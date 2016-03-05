@@ -1,0 +1,98 @@
+explode bomb is at 40144d
+so put a break point whenever you start
+
+
+
+----------------------------------------------------------------------------
+phase_1 
+
+it calls string_not_equal
+string_not_equal calls string length
+string length just gives back the length of the string
+it looks like rdi and r12 are the two strings being compared
+checked in registrar $rsi and it looks like the answer is
+"I can see Russia from my house!"
+
+phase 1 defused
+
+--------------------------------------------------------------------------
+
+phase 2
+
+it looks like the input that we input get's saved into %rdi
+then it calls phase 2
+inside phase 2 we have it so that it moves rsp to rsi
+then calls read six numbers which just basically checks that six numbers have
+been inputted
+
+then rbx = 0
+     rbp = 0x7fffffffe250
+     at the address rbp the value is 1!!!!!!!!     
+     4(rbp,rbx,4)= rbp + 4*rbx + 4 =
+
+4 5 7 10 14 19
+fibonacci sequence starting from the first input that you give.
+
+--------------------------------------------------------------------------
+
+phase 3
+
+
+0x7fffffffe1e0 = 140737488347616
+0x10 = 16
+0x14 = 20
+0x8 = 8
+
+0x7fffffffe1e0 + 0x10 = 0x7fffffffe1f0
+0x7fffffffe1e0 + 0xf = 0x7fffffffe1ef
+0x7fffffffe1e0 + 0x14 = 0x7fffffffe1f4
+
+0x7fffffffe260
+
+
+ASCII!!!!!!!!
+
+The answer is "7 y99"
+
+-------------------------------------------------------------------------
+
+phase 4
+
+There are two that need to be passed
+the first one has to be a number less than or equal to 14
+
+There is a call to funct4 and it does something to our values
+
+the returned value just has to equal to 0x15=21.
+
+Also func4 is a recursive function
+
+and the second value has to be 21...
+
+I still don't know how it works but the anser is "6 21"
+
+------------------------------------------------------------------
+
+phase 5
+
+it takes a string of length 6
+
+and there is a loop that loops only 6 times
+
+we want %ecx to equal 60
+
+Had to look inside array and see what values were bing added
+we wanted the second element or the indexed value of 1
+so the answer or at least one of the answers is "aaaaaa"
+
+--------------------------------------------------------------------
+
+phase 6
+
+takes six different numbers and they are stored inside the address
+0x7fffffffe190
+
+the first number has to be less than 5
+
+
+

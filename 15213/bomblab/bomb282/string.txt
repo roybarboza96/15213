@@ -1,0 +1,289 @@
+/lib64/ld-linux-x86-64.so.2
+__gmon_start__
+libc.so.6
+socket
+fflush
+strcpy
+exit
+sprintf
+fopen
+connect
+signal
+puts
+stdin
+fgets
+memset
+__errno_location
+read
+stdout
+__strtol_internal
+strcasecmp
+getenv
+__ctype_b_loc
+sscanf
+stderr
+alarm
+gethostbyname
+gethostname
+bcopy
+close
+fprintf
+sleep
+__libc_start_main
+write
+GLIBC_2.3
+GLIBC_2.2.5
+%z( 
+%r( 
+%j( 
+%b( 
+%Z( 
+%R( 
+%J( 
+%B( 
+%:( 
+%2( 
+%*( 
+%"( 
+H-P1`
+AWAVAUATUSH
+t$0M
+T$ H
+D$(H
+X[]A\A]A^A_
+ATUSH
+[]A\f
+=M- 
+SHc=
+***t
+runc
+ated
+ATUSH
+Erro
+r: C
+lien
+t un
+able
+ to 
+crea
+te s
+E ockef
+Erro
+r: D
+NS i
+s un
+able
+ to 
+reso
+lve 
+E serv
+E$er a
+E(ddref
+E,ss
+Erro
+r: U
+nabl
+e to
+ con
+nect
+ to 
+servf
+E er
+[]A\
+AWAVAUATUSH
+[]A\A]A^A_
+AWAVAUATUSH
+T$ H
+ErroA
+r: CA
+lienA
+t unA
+ableA
+ to A
+creaA
+te sA
+F ockefA
+ErroA
+r: DA
+NS iA
+s unA
+ableA
+ to A
+resoA
+lve A
+F AutoA
+F$lab A
+F(servA
+F,er aA
+F0ddrefA
+F4ssA
+ErroA
+r: UA
+nablA
+e toA
+ conA
+nectA
+ to A
+the A
+F AutoA
+F$lab A
+F(servfA
+F,erA
+|$ H
+ErroA
+r: RA
+esulA
+t stA
+ringA
+ tooA
+ larA
+ge. A
+F IncrA
+F$easeA
+F( SUBA
+F,MITRA
+F0_MAXA
+F4BUF
+D$0A
+D$1A
+D$2A
+ErroA
+r: RA
+esulA
+t stA
+ringA
+ conA
+tainA
+s anA
+F  illA
+F$egalA
+F( or A
+F,unprA
+F0intaA
+F4ble A
+F8charA
+F<actefA
+F@r.A
+ErroA
+r: CA
+lienA
+t unA
+ableA
+ to A
+writA
+e toA
+F  theA
+F$ AutA
+F(olabA
+F, serA
+F0ver
+ErroA
+r: CA
+lienA
+t unA
+ableA
+ to A
+readA
+ firA
+F st hA
+F$eadeA
+F(r frA
+F,om AA
+F0utolA
+F4ab sA
+F8ervefA
+\$@H
+ErroA
+r: CA
+lienA
+t unA
+ableA
+ to A
+readA
+ staA
+F tus A
+F$messA
+F(age A
+F,fromA
+F0 AutA
+F4olabA
+F8 serA
+F<ver
+D$(H
+ErroA
+r: CA
+lienA
+t unA
+ableA
+ to A
+readA
+ heaA
+F dersA
+F$ froA
+F(m AuA
+F,tolaA
+F0b seA
+F4rverA
+[]A\A]A^A_
+l$ L
+t$(L
+|$0H
+%s: Error: Couldn't open %s
+Usage: %s [<input_file>]
+That's number 2.  Keep going!
+Halfway there!
+Good work!  On to the next...
+Welcome to my fiendish little bomb. You have 6 phases with
+which to blow yourself up. Have a nice day!
+Phase 1 defused. How about the next one?
+So you got that one.  Try this one.
+Wow! You've defused the secret stage!
+I can see Russia from my house!
+%d %c %d
+Invalid phase%s
+defused
+exploded
+%d:%s:%s:%d:%s
+%d %d %s
+213rocks!
+BOOM!!!
+The bomb has blown up.
+%d %d %d %d %d %d
+Error: Premature EOF on stdin
+GRADE_BOMB
+Error: Input line too long
+Initialization error:
+Well...
+OK. :-)
+greatwhite.ics.cs.cmu.edu
+angelshark.ics.cs.cmu.edu
+bambooshark.ics.cs.cmu.edu
+baskingshark.ics.cs.cmu.edu
+blueshark.ics.cs.cmu.edu
+carpetshark.ics.cs.cmu.edu
+catshark.ics.cs.cmu.edu
+houndshark.ics.cs.cmu.edu
+lemonshark.ics.cs.cmu.edu
+makoshark.ics.cs.cmu.edu
+ERROR: Input string is too large.
+Curses, you've found the secret phase!
+But finding it and solving it are quite different...
+Congratulations! You've defused the bomb!
+Your instructor has been notified and will verify your solution.
+Your instructor has been notified.
+Initialization error: Running on an illegal host [1]
+Initialization error: Running on an illegal host [2]
+So you think you can stop the bomb with ctrl-c, do you?
+hammerheadshark.ics.cs.cmu.edu
+unofficial.fish.ics.cs.cmu.edu
+Error: HTTP request failed with error %d: %s
+GET /unofficialSubmit.rb?course=%s&user=%s&assessment=%s&result=%s HTTP/1.0
+Host: %s
+Program timed out after %d seconds
+%%%02X
+%s %d %[a-zA-z ]
+AUTORESULT_STRING=%s
+bomblab
+15213-f14
+roysung
+1921914
